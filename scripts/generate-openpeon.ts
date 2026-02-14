@@ -14,9 +14,17 @@
  *   -> "Reacthelp 1.1 ♀️"
  */
 
-import { readdir, readFile, writeFile } from "node:fs/promises";
+import {
+  readdir,
+  readFile,
+  writeFile,
+  rename,
+  rmdir,
+  unlink,
+  stat,
+} from "node:fs/promises";
 import { createHash } from "node:crypto";
-import { join, relative } from "node:path";
+import { join } from "node:path";
 
 const GENDER_EMOJI: Record<string, string> = {
   female: "♀️",
@@ -79,38 +87,93 @@ async function scanCategorized(
   baseDir: string
 ): Promise<Record<string, Sound[]>> {
   const soundsDir = join(baseDir, "sounds");
-  const categories: Record<string, Sound[]> = {};
+  const manifestPath = join(baseDir, "openpeon.json");
 
-  let categoryDirs: string[];
+  // Step 1: Load existing category mappings from manifest (for previously flattened files)
+  const categoryMapping = new Map<string, Set<string>>();
   try {
-    categoryDirs = await readdir(soundsDir);
+    const manifest = JSON.parse(await readFile(manifestPath, "utf-8"));
+    for (const [cat, catData] of Object.entries(manifest.categories ?? {})) {
+      for (const sound of (catData as any).sounds ?? []) {
+        const filename = (sound as Sound).file.split("/").pop()!;
+        if (!categoryMapping.has(filename))
+          categoryMapping.set(filename, new Set());
+        categoryMapping.get(filename)!.add(cat);
+      }
+    }
   } catch {
-    return {};
+    // No existing manifest
   }
 
-  for (const cat of categoryDirs) {
-    const catPath = join(soundsDir, cat);
-    let files: string[];
-    try {
-      files = (await readdir(catPath)).filter((f) => f.endsWith(".mp3"));
-    } catch {
-      continue;
+  // Step 2: Flatten subdirectories into sounds/
+  const entries = await readdir(soundsDir, { withFileTypes: true });
+
+  for (const entry of entries) {
+    if (!entry.isDirectory()) continue;
+
+    const category = entry.name;
+    const catPath = join(soundsDir, category);
+    const files = (await readdir(catPath)).filter((f) => f.endsWith(".mp3"));
+
+    for (const file of files) {
+      const src = join(catPath, file);
+      const dest = join(soundsDir, file);
+
+      // Record category mapping
+      if (!categoryMapping.has(file)) categoryMapping.set(file, new Set());
+      categoryMapping.get(file)!.add(category);
+
+      // Move to flat structure, or remove duplicate if already flat
+      let destExists = false;
+      try {
+        await stat(dest);
+        destExists = true;
+      } catch {}
+
+      if (destExists) {
+        await unlink(src);
+      } else {
+        await rename(src, dest);
+      }
     }
 
-    if (files.length === 0) continue;
+    // Remove empty directory
+    try {
+      await rmdir(catPath);
+    } catch {}
+  }
 
-    const sounds: Sound[] = await Promise.all(
-      files.sort().map(async (file) => {
-        const parsed = parseFilename(file);
-        const label = parsed ? buildLabel(parsed) : file.replace(/_mp3\.mp3$/, "");
-        const absolutePath = join(catPath, file);
-        const relativePath = relative(baseDir, absolutePath);
-        const sha256 = await hashFile(absolutePath);
-        return { file: relativePath, label, sha256 };
-      })
-    );
+  // Step 3: Scan flat files and group by category
+  const flatFiles = (await readdir(soundsDir))
+    .filter((f) => f.endsWith(".mp3"))
+    .sort();
 
-    categories[cat] = sounds;
+  const categories: Record<string, Sound[]> = {};
+
+  await Promise.all(
+    flatFiles.map(async (file) => {
+      const cats = categoryMapping.get(file);
+      if (!cats || cats.size === 0) {
+        console.warn(`  Warning: ${file} has no category mapping, skipping`);
+        return;
+      }
+
+      const parsed = parseFilename(file);
+      const label = parsed
+        ? buildLabel(parsed)
+        : file.replace(/_mp3\.mp3$/, "");
+      const sha256 = await hashFile(join(soundsDir, file));
+
+      for (const cat of cats) {
+        if (!categories[cat]) categories[cat] = [];
+        categories[cat].push({ file: `sounds/${file}`, label, sha256 });
+      }
+    })
+  );
+
+  // Sort sounds within each category
+  for (const cat of Object.keys(categories)) {
+    categories[cat].sort((a, b) => a.file.localeCompare(b.file));
   }
 
   return categories;
@@ -164,10 +227,13 @@ async function main() {
     categories = await scanFlat(baseDir);
   }
 
-  const totalSounds = Object.values(categories).reduce(
+  const totalRefs = Object.values(categories).reduce(
     (sum, sounds) => sum + sounds.length,
     0
   );
+  const uniqueFiles = new Set(
+    Object.values(categories).flatMap((sounds) => sounds.map((s) => s.file))
+  ).size;
 
   const openpeon = {
     cesp_version: "1.0",
@@ -193,7 +259,8 @@ async function main() {
 
   console.log(`\nGenerated: ${outputPath}`);
   console.log(`Categories: ${Object.keys(categories).length}`);
-  console.log(`Total sounds: ${totalSounds}`);
+  console.log(`Unique files: ${uniqueFiles}`);
+  console.log(`Total references: ${totalRefs} (across all categories)`);
 
   for (const [cat, sounds] of Object.entries(categories).sort(([a], [b]) =>
     a.localeCompare(b)
