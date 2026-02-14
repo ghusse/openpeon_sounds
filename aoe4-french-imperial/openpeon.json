@@ -1,0 +1,2256 @@
+{
+  "cesp_version": "1.0",
+  "name": "aoe4-french-imperial",
+  "display_name": "Age of Empires IV - French Villager Voices (aoe4-french-imperial)",
+  "version": "1.0.0",
+  "description": "French villager voice lines from Age of Empires IV, extracted from the game files.",
+  "author": {
+    "name": "Guillaume et Louison",
+    "github": "ghusse"
+  },
+  "language": "fr",
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/input.required/French_villagerfemale_select_ihigh_chigh_03_alt01_mp3.mp3",
+          "label": "Select 3.1 ♀️",
+          "sha256": "3951785b3673ff6eae26a700ca3fe0c8534afb0cd5e8bb160fb55f462a36d2af"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_select_ihigh_chigh_03_mp3.mp3",
+          "label": "Select 3 ♀️",
+          "sha256": "7a70a2bfe02766c1b9539267750d3506bce95ddadbc55c36689e4f1c2fffe45d"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_select_ihigh_chigh_04_alt01_mp3.mp3",
+          "label": "Select 4.1 ♀️",
+          "sha256": "b92abd53edf7c8255b5f984c731b28954b99018b1b01413c63923586773a7ed8"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_select_ihigh_chigh_04_mp3.mp3",
+          "label": "Select 4 ♀️",
+          "sha256": "9ca6ee34a2b18bd41df2f877ff1ed0cd314f6ad1e7d7b8f56ef6512ebe17c3a3"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_select_ihigh_chigh_05_alt01_mp3.mp3",
+          "label": "Select 5.1 ♀️",
+          "sha256": "3afeaedd47938bf8a44dec1e2d06aaa4f765e223d6923fa8d099f39af464e141"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_select_ihigh_chigh_05_mp3.mp3",
+          "label": "Select 5 ♀️",
+          "sha256": "49c1fdd3f058b74f484b160c0f7db463709c26b4aeaa8c2c44930210de5c3223"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_select_ihigh_cmed_02_alt01_mp3.mp3",
+          "label": "Select 2.1 ♀️",
+          "sha256": "6cc0ad3d1a5ef6c0cdd7413b43dd9f72bc32f74de2b07115d231223ce604e5bf"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_select_ihigh_cmed_02_mp3.mp3",
+          "label": "Select 2 ♀️",
+          "sha256": "f5143169661c0eb71790f17cb63d5ac03016a4967809685668ff5a1fc9679b29"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_select_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Select 1.1 ♀️",
+          "sha256": "d6522326fc25c04138b34136591a3d3ef2b22a209e2063218762a8a9a1f61b81"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_select_inorm_chigh_01_alt02_mp3.mp3",
+          "label": "Select 1.2 ♀️",
+          "sha256": "c2dabe5dba54135565c6986da34f5b67ae748eac36aa3d43ef0ef0d0fe0a9ff8"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_select_inorm_chigh_01_alt03_mp3.mp3",
+          "label": "Select 1.3 ♀️",
+          "sha256": "2f27690ef0d2b62488911becc7dc20e1c6809d4f5d2cc92af5a52ef80e08ce66"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_select_inorm_chigh_01_mp3.mp3",
+          "label": "Select 1 ♀️",
+          "sha256": "75fbcee0c52ed8ffc6352f1044a470f955a82e286df4c07148dc1c35a5e43333"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_select_inorm_chigh_03_alt02_mp3.mp3",
+          "label": "Select 3.2 ♀️",
+          "sha256": "4ce11a3153f6f70f41afc9d6ed72f2418965cfd78f486c1a44212cfc5fbc87ba"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_select_inorm_chigh_03_alt03_mp3.mp3",
+          "label": "Select 3.3 ♀️",
+          "sha256": "6b8725a6959aa0a332b58a12593997b7c18de6bce262074ca8ede790a4807a2a"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_select_inorm_chigh_03_mp3.mp3",
+          "label": "Select 3 ♀️",
+          "sha256": "3600280c3189d741a2bc4d1f8310bfe9fbf583a7efb7163dec7851357ed1ce40"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_select_inorm_chigh_04_alt01_mp3.mp3",
+          "label": "Select 4.1 ♀️",
+          "sha256": "55651892ae421598353729468281c1e946d4eb548d49685af298f9b1846ba79b"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_select_inorm_chigh_04_alt02_mp3.mp3",
+          "label": "Select 4.2 ♀️",
+          "sha256": "00131c7ecd0c77fbeab976bdf08ded2754e9c33f0f156e93fe15c83e25679462"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_select_inorm_chigh_04_alt03_mp3.mp3",
+          "label": "Select 4.3 ♀️",
+          "sha256": "2617632c231cd3a7276eb2c47ed806795158292ebd13bc1b463d4c1643f574d6"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_select_inorm_chigh_04_mp3.mp3",
+          "label": "Select 4 ♀️",
+          "sha256": "0f2921eaac67f8b13221996bdd7a6ccb8e33973be3161714a5f86e1c4b2c90c1"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_selectsametypegc_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Selectsametypegc 1.1 ♀️",
+          "sha256": "692cc596f0af43d61e866e9a3110aac49ec6efabe5b40e8f7e05beca6acf7f52"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_selectsametypegc_ihigh_chigh_01_mp3.mp3",
+          "label": "Selectsametypegc 1 ♀️",
+          "sha256": "3c1e911e2a61ce1cb433bb2e4ef7e21c1abe4374d7684c73382a419dc78bcfaa"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_selectsametypegc_ihigh_chigh_04_alt01_mp3.mp3",
+          "label": "Selectsametypegc 4.1 ♀️",
+          "sha256": "86bb7ba192a803eb0d9d44a72e88d80c9e740fe91b088f0d14cb4ecffc4b0b69"
+        },
+        {
+          "file": "sounds/input.required/French_villagerfemale_selectsametypegc_ihigh_chigh_04_mp3.mp3",
+          "label": "Selectsametypegc 4 ♀️",
+          "sha256": "378938d4207300a266efd65e4e2ec9232802a7cff2de2d80db8e61ea099f1a86"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_ambientidle_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Ambientidle 1.1 ♂️",
+          "sha256": "f7eabcf0911962646a5fb09045055b486f82858ecf17590787b92b313d47ee09"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_ambientidle_inorm_chigh_01_mp3.mp3",
+          "label": "Ambientidle 1 ♂️",
+          "sha256": "8fca66e24901fe1ca48133719fd65192ec49b31f3e95dbea81adb2bbc4351836"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_ambientidle_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Ambientidle 2.1 ♂️",
+          "sha256": "4958a24d421b72c9d5a468b4e91797682caf53c2573c75987fac3544844e634b"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_ambientidle_inorm_chigh_02_mp3.mp3",
+          "label": "Ambientidle 2 ♂️",
+          "sha256": "eb3e0c971ff896c4ee1a430cfc0e85d97d9c5f0189ae88d74601c40635ad785d"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_ambientidle_inorm_chigh_03_alt01_mp3.mp3",
+          "label": "Ambientidle 3.1 ♂️",
+          "sha256": "d5bdcac82de6b909ee2b0d2272701aed0cd806e2c11c733fcc89771e838dfc6e"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_ambientidle_inorm_chigh_03_mp3.mp3",
+          "label": "Ambientidle 3 ♂️",
+          "sha256": "f23fd166321f3281ce6f4053ce6a282d57476fdff159935a199e805e2b0d7c97"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_ambientidle_inorm_chigh_04_alt01_mp3.mp3",
+          "label": "Ambientidle 4.1 ♂️",
+          "sha256": "3f4c372a4d3166d91aac105af95b00acdd6303ec9b79bc1f31fe0318ffef7cdc"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_ambientidle_inorm_chigh_04_mp3.mp3",
+          "label": "Ambientidle 4 ♂️",
+          "sha256": "d140daadcea1dc297e61504c65d73d6ef0de6d76b0f0d55e5195aa52b8d62c62"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_ambientidle_inorm_chigh_05_alt01_mp3.mp3",
+          "label": "Ambientidle 5.1 ♂️",
+          "sha256": "a6f329f093658dc8ef0b4e29c7805a28ad11d862d0837458d9868b439af82e7c"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_ambientidle_inorm_chigh_05_mp3.mp3",
+          "label": "Ambientidle 5 ♂️",
+          "sha256": "e3bf71a4871584ecede5a47a3784eb8144637ab2d78dd162575a24ab764ea2be"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_ambientidle_inorm_chigh_06_alt01_mp3.mp3",
+          "label": "Ambientidle 6.1 ♂️",
+          "sha256": "a935b5f599b51978c4be784c0b70169d1687de449fdffc2b04e86e149b49e292"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_ambientidle_inorm_chigh_06_mp3.mp3",
+          "label": "Ambientidle 6 ♂️",
+          "sha256": "986a5a75f47097055366131caddac564746b942edd2cebc9e3dced24ed7fc03a"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_select_ihigh_chigh_03_alt01_mp3.mp3",
+          "label": "Select 3.1 ♂️",
+          "sha256": "14d220bb7151d354be243d40a05234ad71461ef6a6db53fe5d51c70ba7841a27"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_select_ihigh_chigh_03_mp3.mp3",
+          "label": "Select 3 ♂️",
+          "sha256": "7e71b4d27b8636101a697dc1dd2ca9005173e98f0a70ffda5a75b94facca023e"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_select_ihigh_chigh_04_alt01_mp3.mp3",
+          "label": "Select 4.1 ♂️",
+          "sha256": "875540d1c1b5eaae9c7f308f9df6788e6b2ee01950a4478f7ca4ddf6f7b24521"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_select_ihigh_chigh_04_mp3.mp3",
+          "label": "Select 4 ♂️",
+          "sha256": "e413f3f5484b06025389750f834901216946afcd4a320a4be59b170fb73ff8f0"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_select_ihigh_chigh_05_alt01_mp3.mp3",
+          "label": "Select 5.1 ♂️",
+          "sha256": "68accf9eec87deec07a5e6055df659d95ec8750e423014f335a5d2fea5f23847"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_select_ihigh_chigh_05_mp3.mp3",
+          "label": "Select 5 ♂️",
+          "sha256": "e804386cbdc850f5b0253506ea1bff2519d758c0cfec594978798979a9113405"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_select_ihigh_cmed_02_alt01_mp3.mp3",
+          "label": "Select 2.1 ♂️",
+          "sha256": "e2c1e2a19bc5155ee5c00d770d9c80cff485a31ae73f1fc9c53b585fb2749804"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_select_ihigh_cmed_02_mp3.mp3",
+          "label": "Select 2 ♂️",
+          "sha256": "32feff453fe1c29d2d833eb99e816ffdf857858cbc78aac7c86866480d0ec961"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_select_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Select 1.1 ♂️",
+          "sha256": "2d5428b6995f183790f7b681e90926f53f2b961cf06c1a30a9aeb7bf917e501a"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_select_inorm_chigh_01_mp3.mp3",
+          "label": "Select 1 ♂️",
+          "sha256": "a61e4b50c8ef4c726f4887382b7287692416111842f1e6107d00c1977a4c21d9"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_select_inorm_chigh_03_alt02_mp3.mp3",
+          "label": "Select 3.2 ♂️",
+          "sha256": "f55f39d5bff5f3401b0732895a56dd3a0668749d1196a0505b9a850d37f41d53"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_select_inorm_chigh_03_mp3.mp3",
+          "label": "Select 3 ♂️",
+          "sha256": "77436cd057f10dc18a555d710fafbadc430e7236962a11605d27d9aefe0417a1"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_select_inorm_chigh_04_alt01_mp3.mp3",
+          "label": "Select 4.1 ♂️",
+          "sha256": "4b597000dc74318d18ff5e12516e468f1c9b57b962aad09af4f8ad85c25c16e2"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_select_inorm_chigh_04_alt02_mp3.mp3",
+          "label": "Select 4.2 ♂️",
+          "sha256": "346fc0c198365366f63873077448e434df339c8f2fe6a3e3b1ae0f742c51a019"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_select_inorm_chigh_04_mp3.mp3",
+          "label": "Select 4 ♂️",
+          "sha256": "a9d4365365b8b3f79afd3f24b85c5f745628cccf1628d219e868fcef619ac9e3"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_selectsametypegc_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Selectsametypegc 1.1 ♂️",
+          "sha256": "4ae29b9e0f2e3d6f6c814ce40802df439242a33e9b0d87aad1a058ea2c9a55c0"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_selectsametypegc_ihigh_chigh_01_mp3.mp3",
+          "label": "Selectsametypegc 1 ♂️",
+          "sha256": "aba0425ec9152544846feafdcad2bf242a4813616b6f1705add785174a78f55d"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_selectsametypegc_ihigh_chigh_04_alt01_mp3.mp3",
+          "label": "Selectsametypegc 4.1 ♂️",
+          "sha256": "ee92cf9237dd46303a3a1aea017f8b25616f7150e1363530485863c971ff4401"
+        },
+        {
+          "file": "sounds/input.required/French_villagermale_selectsametypegc_ihigh_chigh_04_mp3.mp3",
+          "label": "Selectsametypegc 4 ♂️",
+          "sha256": "6d8cbf37ffe494e01adf722a3b8ef1768ffdba9c5c7149b75b3c1bff066a9105"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/resource.limit/French_villagerfemale_engage_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Engage 1.1 ♀️",
+          "sha256": "b682099df7088d745a64457b11ad3c3da0cfea4311130e1427765fe3f00cd296"
+        },
+        {
+          "file": "sounds/resource.limit/French_villagerfemale_engage_ihigh_chigh_01_mp3.mp3",
+          "label": "Engage 1 ♀️",
+          "sha256": "784e07531b27470b96d4ca7d7ce96e08c3e5854bb2377b8f7a8cbffe70d383f1"
+        },
+        {
+          "file": "sounds/resource.limit/French_villagerfemale_reacthelp_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Reacthelp 1.1 ♀️",
+          "sha256": "f660e16896ceb1a8c2b859004edec12cc382b75a2d0298826f8e1e07f65a4a7d"
+        },
+        {
+          "file": "sounds/resource.limit/French_villagerfemale_reacthelp_ihigh_chigh_01_mp3.mp3",
+          "label": "Reacthelp 1 ♀️",
+          "sha256": "8d1b62b41a246c4e2c702a4e67dd0e7a2b9571bb0912859c5a446c438cc0e96f"
+        },
+        {
+          "file": "sounds/resource.limit/French_villagerfemale_stop_ihigh_chigh_01_mp3.mp3",
+          "label": "Stop 1 ♀️",
+          "sha256": "c7392e4492775bdb9667460e3001529a87bd83be18ced464fcb94160ace7080d"
+        },
+        {
+          "file": "sounds/resource.limit/French_villagerfemale_stop_ihigh_chigh_02_mp3.mp3",
+          "label": "Stop 2 ♀️",
+          "sha256": "0741e8b267213cc82144c1a499cbdf7ea0775864b456f348c1f3945ea949d05e"
+        },
+        {
+          "file": "sounds/resource.limit/French_villagerfemale_stop_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Stop 1.1 ♀️",
+          "sha256": "287a60ab3038fd69a9008359ddb476758b5118700a97243e56b63a18a3c21858"
+        },
+        {
+          "file": "sounds/resource.limit/French_villagerfemale_stop_inorm_chigh_01_mp3.mp3",
+          "label": "Stop 1 ♀️",
+          "sha256": "1f69482ced8095b8565b9547ae08f41ca224cbdfaea89b5a319afccd2a0ccc32"
+        },
+        {
+          "file": "sounds/resource.limit/French_villagerfemale_stop_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Stop 2.1 ♀️",
+          "sha256": "f81aeab5be1532b160c857fba366f6d5e49c183cd980c661952ffdb60b7b91f7"
+        },
+        {
+          "file": "sounds/resource.limit/French_villagerfemale_stop_inorm_chigh_02_mp3.mp3",
+          "label": "Stop 2 ♀️",
+          "sha256": "d80fb802eda13c97cf5952f57401be2458cfd32d604d0d97629beef1c32cf471"
+        },
+        {
+          "file": "sounds/resource.limit/French_villagermale_engage_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Engage 1.1 ♂️",
+          "sha256": "632048dbde427f4f93e75e47225c9671e3861fe0d427c665df830717d29909c7"
+        },
+        {
+          "file": "sounds/resource.limit/French_villagermale_engage_ihigh_chigh_01_mp3.mp3",
+          "label": "Engage 1 ♂️",
+          "sha256": "0a44609b319e395fd493df4a34858c34078616a4d3c04ef21fcfbd0df88fdabe"
+        },
+        {
+          "file": "sounds/resource.limit/French_villagermale_reacthelp_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Reacthelp 1.1 ♂️",
+          "sha256": "3fe65403e9f86e0dc961e17c82671e028395b79aba2ad8a2e0f21f1b02e1f3d3"
+        },
+        {
+          "file": "sounds/resource.limit/French_villagermale_reacthelp_ihigh_chigh_01_mp3.mp3",
+          "label": "Reacthelp 1 ♂️",
+          "sha256": "ad5f234ac93412087339b103dacd509ba2524535dfe43f92554fbc91ad98feac"
+        },
+        {
+          "file": "sounds/resource.limit/French_villagermale_stop_ihigh_chigh_01_mp3.mp3",
+          "label": "Stop 1 ♂️",
+          "sha256": "6fbb61a0e8f160eaf6c952dc121f781005314910f68ae871e7610ed8d37a9ce2"
+        },
+        {
+          "file": "sounds/resource.limit/French_villagermale_stop_ihigh_chigh_02_mp3.mp3",
+          "label": "Stop 2 ♂️",
+          "sha256": "3c4c68374df94988848d3432962adfab97e69fb545565dddbe2185f68ece8676"
+        },
+        {
+          "file": "sounds/resource.limit/French_villagermale_stop_inorm_chigh_01_mp3.mp3",
+          "label": "Stop 1 ♂️",
+          "sha256": "02d8bf935ea486630720b1f196db7b35c96f292a2c0fc89e8b6031afae4071ee"
+        },
+        {
+          "file": "sounds/resource.limit/French_villagermale_stop_inorm_chigh_02_mp3.mp3",
+          "label": "Stop 2 ♂️",
+          "sha256": "4683d6062085b3480748aa30c6ee4babc3d967513dafd58d6f7ab5045fbb6b71"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/session.end/French_villagerfemale_celebrate_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Celebrate 1.1 ♀️",
+          "sha256": "36580e0dfc12b9906f0e1c837896611901603554251e7e6709aa0707e299db3d"
+        },
+        {
+          "file": "sounds/session.end/French_villagerfemale_celebrate_inorm_chigh_01_mp3.mp3",
+          "label": "Celebrate 1 ♀️",
+          "sha256": "97e58fa596bb439346c0526288ecae47e6cbdb8f346b6e44275c609e2c666abb"
+        },
+        {
+          "file": "sounds/session.end/French_villagerfemale_celebrate_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Celebrate 2.1 ♀️",
+          "sha256": "1b9e51c0c2ec2d53435ca6d276fed1348b7b387484e6a838f9ed543e638b4e50"
+        },
+        {
+          "file": "sounds/session.end/French_villagerfemale_celebrate_inorm_chigh_02_mp3.mp3",
+          "label": "Celebrate 2 ♀️",
+          "sha256": "a57445a0c099909054aeff25afe3ed8977c9548e2dc89a5ca1526d0ec5416e5f"
+        },
+        {
+          "file": "sounds/session.end/French_villagerfemale_celebrate_inorm_chigh_03_alt01_mp3.mp3",
+          "label": "Celebrate 3.1 ♀️",
+          "sha256": "41936c993b33c666ff685c6cb3fdbcf6cba2cfb09c7b65c9b4fef075fd9a7cf3"
+        },
+        {
+          "file": "sounds/session.end/French_villagerfemale_celebrate_inorm_chigh_03_mp3.mp3",
+          "label": "Celebrate 3 ♀️",
+          "sha256": "f48857b488e35307c58751bc83e506f80b881a42f3c585329a3d8a9a9c2f977d"
+        },
+        {
+          "file": "sounds/session.end/French_villagerfemale_celebrate_inorm_chigh_04_alt01_mp3.mp3",
+          "label": "Celebrate 4.1 ♀️",
+          "sha256": "ac24498e9fd5a77e7dcbca5b96a95ba5a97adc9ca7a4051ad8eaef66df33c25d"
+        },
+        {
+          "file": "sounds/session.end/French_villagerfemale_celebrate_inorm_chigh_04_mp3.mp3",
+          "label": "Celebrate 4 ♀️",
+          "sha256": "f10210a04c9dc00bde31d3a5d1b5dc2e4783ec95c6f3e5ec0783f8691185d9ef"
+        },
+        {
+          "file": "sounds/session.end/French_villagermale_celebrate_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Celebrate 1.1 ♂️",
+          "sha256": "c5db8f375f4422c3ae570c2df9e8f967707ba4faa75263f434c670185f7cabe3"
+        },
+        {
+          "file": "sounds/session.end/French_villagermale_celebrate_inorm_chigh_01_mp3.mp3",
+          "label": "Celebrate 1 ♂️",
+          "sha256": "1b3967ce9e9bb66bdcf60d21df9cbfb9b001ac8d53066299786f92d2bc2a7cb3"
+        },
+        {
+          "file": "sounds/session.end/French_villagermale_celebrate_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Celebrate 2.1 ♂️",
+          "sha256": "f8b130d448fc502d22f2bdee0480818e7a28a5d0735c3a252c22e472f669ff33"
+        },
+        {
+          "file": "sounds/session.end/French_villagermale_celebrate_inorm_chigh_02_mp3.mp3",
+          "label": "Celebrate 2 ♂️",
+          "sha256": "7fed8d0503acb03ef7d67b7463400f3b10d5d7cda5976ddacb59668e67946e9e"
+        },
+        {
+          "file": "sounds/session.end/French_villagermale_celebrate_inorm_chigh_03_alt01_mp3.mp3",
+          "label": "Celebrate 3.1 ♂️",
+          "sha256": "f64a8c6f72d9586a82a0547fc0c652497ad1a59e0b7c39af57b469af2c784854"
+        },
+        {
+          "file": "sounds/session.end/French_villagermale_celebrate_inorm_chigh_03_mp3.mp3",
+          "label": "Celebrate 3 ♂️",
+          "sha256": "e5acf01045f54c9447ceb7d57d566735b045c2777cf4ec39339cd0714154f96c"
+        },
+        {
+          "file": "sounds/session.end/French_villagermale_celebrate_inorm_chigh_04_alt01_mp3.mp3",
+          "label": "Celebrate 4.1 ♂️",
+          "sha256": "97f1ad7afb264c212db97e10a0828bd327aa04a57516a7bc1674237cbce89b59"
+        },
+        {
+          "file": "sounds/session.end/French_villagermale_celebrate_inorm_chigh_04_mp3.mp3",
+          "label": "Celebrate 4 ♂️",
+          "sha256": "efdf5e1d1ce445cf3b0a1f796e9857619869d2207767f8b354e32d2da4786d2e"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Select 1.1 ♀️",
+          "sha256": "96b6db92c9702c6c527448298226e22b0886c9ed416c74c2dcef8f9769c69b21"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_ihigh_chigh_01_mp3.mp3",
+          "label": "Select 1 ♀️",
+          "sha256": "e71c7c19309abf348623719cb7c51608d9ac84661bde8e24895342735a0bb274"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_ihigh_chigh_02_alt01_mp3.mp3",
+          "label": "Select 2.1 ♀️",
+          "sha256": "f8b7c1b9e62abca9572baa48634024af8c3f682f5b6791892844362ae9edbb7f"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_ihigh_chigh_02_mp3.mp3",
+          "label": "Select 2 ♀️",
+          "sha256": "e3fcc07cb6d8de503a5e26c9a48f225fa0cad760bbf5ce3cc8ea0e0a40f26a32"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_ihigh_chigh_03_alt01_mp3.mp3",
+          "label": "Select 3.1 ♀️",
+          "sha256": "3951785b3673ff6eae26a700ca3fe0c8534afb0cd5e8bb160fb55f462a36d2af"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_ihigh_chigh_03_mp3.mp3",
+          "label": "Select 3 ♀️",
+          "sha256": "7a70a2bfe02766c1b9539267750d3506bce95ddadbc55c36689e4f1c2fffe45d"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_ihigh_chigh_04_alt01_mp3.mp3",
+          "label": "Select 4.1 ♀️",
+          "sha256": "b92abd53edf7c8255b5f984c731b28954b99018b1b01413c63923586773a7ed8"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_ihigh_chigh_04_mp3.mp3",
+          "label": "Select 4 ♀️",
+          "sha256": "9ca6ee34a2b18bd41df2f877ff1ed0cd314f6ad1e7d7b8f56ef6512ebe17c3a3"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_ihigh_chigh_05_alt01_mp3.mp3",
+          "label": "Select 5.1 ♀️",
+          "sha256": "3afeaedd47938bf8a44dec1e2d06aaa4f765e223d6923fa8d099f39af464e141"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_ihigh_chigh_05_mp3.mp3",
+          "label": "Select 5 ♀️",
+          "sha256": "49c1fdd3f058b74f484b160c0f7db463709c26b4aeaa8c2c44930210de5c3223"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_ihigh_chigh_06_alt01_mp3.mp3",
+          "label": "Select 6.1 ♀️",
+          "sha256": "63a4a05f444ca5d72b6c60a290fd40a364951ee1bfe5e22104dc0859b6a00594"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_ihigh_chigh_06_mp3.mp3",
+          "label": "Select 6 ♀️",
+          "sha256": "5026cf67745ef5863d8c9a50d2818da5d6fc94468e4d109c8a25cd7df822f88b"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_ihigh_cmed_04_alt01_mp3.mp3",
+          "label": "Select 4.1 ♀️",
+          "sha256": "d9398cb9202f9dc6097c8b1e7b76140a6f1dabcb4515c76c0811225098e5ca9e"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_ihigh_cmed_04_mp3.mp3",
+          "label": "Select 4 ♀️",
+          "sha256": "417143bb12ded399ac861c7a0e0d39ead7fa37e6cc14154344db73174c1fe9a4"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Select 1.1 ♀️",
+          "sha256": "d6522326fc25c04138b34136591a3d3ef2b22a209e2063218762a8a9a1f61b81"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_inorm_chigh_01_alt02_mp3.mp3",
+          "label": "Select 1.2 ♀️",
+          "sha256": "c2dabe5dba54135565c6986da34f5b67ae748eac36aa3d43ef0ef0d0fe0a9ff8"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_inorm_chigh_01_alt03_mp3.mp3",
+          "label": "Select 1.3 ♀️",
+          "sha256": "2f27690ef0d2b62488911becc7dc20e1c6809d4f5d2cc92af5a52ef80e08ce66"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_inorm_chigh_01_mp3.mp3",
+          "label": "Select 1 ♀️",
+          "sha256": "75fbcee0c52ed8ffc6352f1044a470f955a82e286df4c07148dc1c35a5e43333"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Select 2.1 ♀️",
+          "sha256": "5ffaf3760d9a9b97078fee602eb0a8c43f5bcd12ca0da93b1a191990fc213303"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_inorm_chigh_02_alt02_mp3.mp3",
+          "label": "Select 2.2 ♀️",
+          "sha256": "7570e2eb8a603a9dcc94b4a3e9ff64f91cfbebe145d8f6013d912e7561f3397b"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_inorm_chigh_02_alt03_mp3.mp3",
+          "label": "Select 2.3 ♀️",
+          "sha256": "47b07fb4d868fba5d21fb600b87165692d637cbc5b6ffae6d6f9bbab63151355"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_inorm_chigh_02_mp3.mp3",
+          "label": "Select 2 ♀️",
+          "sha256": "d2343dbae78d79fde1976c5eafc56dac28e58d3659beabe2cd14b31c5060a4e5"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_inorm_chigh_03_alt01_mp3.mp3",
+          "label": "Select 3.1 ♀️",
+          "sha256": "0cc1a91077f10ebf8f76eaa2973c4fff65333c0ea922216b93b1bb96b195e6cf"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_inorm_chigh_03_alt02_mp3.mp3",
+          "label": "Select 3.2 ♀️",
+          "sha256": "4ce11a3153f6f70f41afc9d6ed72f2418965cfd78f486c1a44212cfc5fbc87ba"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_inorm_chigh_03_alt03_mp3.mp3",
+          "label": "Select 3.3 ♀️",
+          "sha256": "6b8725a6959aa0a332b58a12593997b7c18de6bce262074ca8ede790a4807a2a"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_inorm_chigh_03_mp3.mp3",
+          "label": "Select 3 ♀️",
+          "sha256": "3600280c3189d741a2bc4d1f8310bfe9fbf583a7efb7163dec7851357ed1ce40"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_inorm_chigh_04_alt01_mp3.mp3",
+          "label": "Select 4.1 ♀️",
+          "sha256": "55651892ae421598353729468281c1e946d4eb548d49685af298f9b1846ba79b"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_inorm_chigh_04_alt02_mp3.mp3",
+          "label": "Select 4.2 ♀️",
+          "sha256": "00131c7ecd0c77fbeab976bdf08ded2754e9c33f0f156e93fe15c83e25679462"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_inorm_chigh_04_alt03_mp3.mp3",
+          "label": "Select 4.3 ♀️",
+          "sha256": "2617632c231cd3a7276eb2c47ed806795158292ebd13bc1b463d4c1643f574d6"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_inorm_chigh_04_mp3.mp3",
+          "label": "Select 4 ♀️",
+          "sha256": "0f2921eaac67f8b13221996bdd7a6ccb8e33973be3161714a5f86e1c4b2c90c1"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_inorm_chigh_05_alt01_mp3.mp3",
+          "label": "Select 5.1 ♀️",
+          "sha256": "9b8fc4f3c5d891f83c3e6df4a50e67332214cfbe7e3ca46ccd2344c13adc2b62"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_inorm_chigh_05_mp3.mp3",
+          "label": "Select 5 ♀️",
+          "sha256": "fc5961c60d94bace5107a8c8dab979158416eb823cafa77cdc0372f5f1cb542e"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_inorm_chigh_06_alt01_mp3.mp3",
+          "label": "Select 6.1 ♀️",
+          "sha256": "76d4149f84c835d093754d874d71c4cdf902892c94ae461e08f8d8ea89bb4f97"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_inorm_chigh_06_mp3.mp3",
+          "label": "Select 6 ♀️",
+          "sha256": "cb2fbc535898de8e761b3d1093bfc9b0c8ae3036b183acc3a495ee2a9c0ae6b1"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_istealth_chigh_01_alt01_mp3.mp3",
+          "label": "French_villagerfemale_select_istealth_chigh_01_alt01",
+          "sha256": "b92aa7c4b62314ac6b79c103f250533ad037f412554e87e983faf4431eb3a52f"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_istealth_chigh_01_mp3.mp3",
+          "label": "French_villagerfemale_select_istealth_chigh_01",
+          "sha256": "64cf72322dae70cfbed053ae2f0cb92c8a8d8bef8311a00f786204b9913159f4"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_istealth_chigh_02_alt01_mp3.mp3",
+          "label": "French_villagerfemale_select_istealth_chigh_02_alt01",
+          "sha256": "568f9b0c2add0f3a45fdc4c4fe0206f503d0602e4719b9bbc0f0c4621512028d"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_istealth_chigh_02_mp3.mp3",
+          "label": "French_villagerfemale_select_istealth_chigh_02",
+          "sha256": "67049d591d8d204ab4fa56916528741065453608e8233952a517bb2ba408f34a"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_istealth_chigh_03_alt01_mp3.mp3",
+          "label": "French_villagerfemale_select_istealth_chigh_03_alt01",
+          "sha256": "f643a2811fa8bd15eca4e2eb2d58a324ffa566a996c630e02b9c96c846fd053c"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_istealth_chigh_03_mp3.mp3",
+          "label": "French_villagerfemale_select_istealth_chigh_03",
+          "sha256": "a4f7053cc6c12516c1b9c1c74d05072ba3c28910db3bf6e215f65ef078b2b72a"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_istealth_chigh_04_alt01_mp3.mp3",
+          "label": "French_villagerfemale_select_istealth_chigh_04_alt01",
+          "sha256": "aba3497d2570230cfe61588c43e7be09aa48ec1ed4d5c6b141b1ce5dd8b7986e"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_select_istealth_chigh_04_mp3.mp3",
+          "label": "French_villagerfemale_select_istealth_chigh_04",
+          "sha256": "c1e6a0998eebccee772e702ae7476c7bbfb77a831a2c13cc7f586437c51561a5"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_selectsametypegc_ihigh_chigh_02_alt01_mp3.mp3",
+          "label": "Selectsametypegc 2.1 ♀️",
+          "sha256": "dc339c734f220423c6677c56f10cc94d191b578750fc913ccce46f92c24c1618"
+        },
+        {
+          "file": "sounds/session.start/French_villagerfemale_selectsametypegc_ihigh_chigh_02_mp3.mp3",
+          "label": "Selectsametypegc 2 ♀️",
+          "sha256": "b766cf16d514037f7253323a6cd35536bed85d59b2c7644794ce4d00d5112541"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_acknowledge_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Acknowledge 1.1 ♂️",
+          "sha256": "51e80acdc23015754c2ea13728e9cd7f87a94382b193578f8f27493dfb153785"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_acknowledge_ihigh_chigh_01_mp3.mp3",
+          "label": "Acknowledge 1 ♂️",
+          "sha256": "e5b28c995a2f5bf6a76fa43705e59233022266260b217bf07d719c04243df853"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Select 1.1 ♂️",
+          "sha256": "e95017ae0f818be34b8848b77f334f2a14d5694e92703edcfaaca5802e9f5f1c"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_ihigh_chigh_01_mp3.mp3",
+          "label": "Select 1 ♂️",
+          "sha256": "96df270c511ef210eed26a08d8fd5f40dafadc1d14d071775a664fa5cf0e892f"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_ihigh_chigh_02_mp3.mp3",
+          "label": "Select 2 ♂️",
+          "sha256": "5c0d67d1a6152d79a9e261f9b46118688eb92ce72fffcd11aa9dabd9f396d7f4"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_ihigh_chigh_03_alt01_mp3.mp3",
+          "label": "Select 3.1 ♂️",
+          "sha256": "14d220bb7151d354be243d40a05234ad71461ef6a6db53fe5d51c70ba7841a27"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_ihigh_chigh_03_mp3.mp3",
+          "label": "Select 3 ♂️",
+          "sha256": "7e71b4d27b8636101a697dc1dd2ca9005173e98f0a70ffda5a75b94facca023e"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_ihigh_chigh_04_alt01_mp3.mp3",
+          "label": "Select 4.1 ♂️",
+          "sha256": "875540d1c1b5eaae9c7f308f9df6788e6b2ee01950a4478f7ca4ddf6f7b24521"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_ihigh_chigh_04_mp3.mp3",
+          "label": "Select 4 ♂️",
+          "sha256": "e413f3f5484b06025389750f834901216946afcd4a320a4be59b170fb73ff8f0"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_ihigh_chigh_05_alt01_mp3.mp3",
+          "label": "Select 5.1 ♂️",
+          "sha256": "68accf9eec87deec07a5e6055df659d95ec8750e423014f335a5d2fea5f23847"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_ihigh_chigh_05_mp3.mp3",
+          "label": "Select 5 ♂️",
+          "sha256": "e804386cbdc850f5b0253506ea1bff2519d758c0cfec594978798979a9113405"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_ihigh_chigh_06_alt01_mp3.mp3",
+          "label": "Select 6.1 ♂️",
+          "sha256": "64d4661336459c90c4403a845089f38a0eff578a9b0896a861c5b98bfe031085"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_ihigh_chigh_06_mp3.mp3",
+          "label": "Select 6 ♂️",
+          "sha256": "29a0e398b7ace3da9e5fa431e22adb4e4b8e79315518adb771d43091d5ef9a29"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_ihigh_cmed_04_alt01_mp3.mp3",
+          "label": "Select 4.1 ♂️",
+          "sha256": "ff5888359b02f960a2062cd4f1fca6c52ffd0de891654cface401dec43c32c0c"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_ihigh_cmed_04_mp3.mp3",
+          "label": "Select 4 ♂️",
+          "sha256": "a2a16e3248bb1568036eb18bd8b618a467615aacfca3d6386107e07a71ad0eb0"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Select 1.1 ♂️",
+          "sha256": "2d5428b6995f183790f7b681e90926f53f2b961cf06c1a30a9aeb7bf917e501a"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_inorm_chigh_01_mp3.mp3",
+          "label": "Select 1 ♂️",
+          "sha256": "a61e4b50c8ef4c726f4887382b7287692416111842f1e6107d00c1977a4c21d9"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Select 2.1 ♂️",
+          "sha256": "e2905eb84082eeff038138386be173bd2643ae8d3fc8fb75fb44ef649005c369"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_inorm_chigh_02_mp3.mp3",
+          "label": "Select 2 ♂️",
+          "sha256": "4ea32bcdc6f3c804d0c31015601b6cc770c5e736f089b5f3ba6393b3249f9059"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_inorm_chigh_03_alt01_mp3.mp3",
+          "label": "Select 3.1 ♂️",
+          "sha256": "d9e6a3dadfb8f5386f2e1529cfa094a5dcd1eb726ffcfcd5a8842c4b813e2142"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_inorm_chigh_03_alt02_mp3.mp3",
+          "label": "Select 3.2 ♂️",
+          "sha256": "f55f39d5bff5f3401b0732895a56dd3a0668749d1196a0505b9a850d37f41d53"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_inorm_chigh_03_mp3.mp3",
+          "label": "Select 3 ♂️",
+          "sha256": "77436cd057f10dc18a555d710fafbadc430e7236962a11605d27d9aefe0417a1"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_inorm_chigh_04_alt01_mp3.mp3",
+          "label": "Select 4.1 ♂️",
+          "sha256": "4b597000dc74318d18ff5e12516e468f1c9b57b962aad09af4f8ad85c25c16e2"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_inorm_chigh_04_alt02_mp3.mp3",
+          "label": "Select 4.2 ♂️",
+          "sha256": "346fc0c198365366f63873077448e434df339c8f2fe6a3e3b1ae0f742c51a019"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_inorm_chigh_04_mp3.mp3",
+          "label": "Select 4 ♂️",
+          "sha256": "a9d4365365b8b3f79afd3f24b85c5f745628cccf1628d219e868fcef619ac9e3"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_inorm_chigh_05_alt01_mp3.mp3",
+          "label": "Select 5.1 ♂️",
+          "sha256": "3bf04ea50ba76ce98da8d812d750b53cabf4b8702f1f198ec9f5a8397fde14ba"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_inorm_chigh_05_mp3.mp3",
+          "label": "Select 5 ♂️",
+          "sha256": "78cef79d5a7785852d066b8f90d5a95c38dd2a2c18aa14f45d43db9b4c9ac290"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_inorm_chigh_06_alt01_mp3.mp3",
+          "label": "Select 6.1 ♂️",
+          "sha256": "504dd562ce0c912fcd42854b3b493bdb83d6cc1ca18ca77be65fd300e5b40694"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_inorm_chigh_06_mp3.mp3",
+          "label": "Select 6 ♂️",
+          "sha256": "bf12c5f22f75ccf49d70b22fb426b2eb13fa3a38162979b6751070e3f5af4295"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_istealth_chigh_01_alt01_mp3.mp3",
+          "label": "French_villagermale_select_istealth_chigh_01_alt01",
+          "sha256": "0778181660c38795887c15b732b413d10b33a4e1c725f02dcd2f0fa06c7c951c"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_istealth_chigh_01_mp3.mp3",
+          "label": "French_villagermale_select_istealth_chigh_01",
+          "sha256": "0eb43d351acc06aec0493991dde819a2a63bbd6c81a0ca290d3eeb73036b4840"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_istealth_chigh_02_alt01_mp3.mp3",
+          "label": "French_villagermale_select_istealth_chigh_02_alt01",
+          "sha256": "999a2bc957eda8417f4618a684e0da21b38ffe5d1399eea19823969f5a58aa44"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_istealth_chigh_02_mp3.mp3",
+          "label": "French_villagermale_select_istealth_chigh_02",
+          "sha256": "1e1262163acb0fd13ef71b702ee13ae5b7bb05d3011d308f2d758b27cd315b91"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_istealth_chigh_03_alt01_mp3.mp3",
+          "label": "French_villagermale_select_istealth_chigh_03_alt01",
+          "sha256": "f9f9aacc3d4bdfe68d0134e3ad3b89e9c6c303435e7e36f31db7eb9ceec8f9cd"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_istealth_chigh_03_mp3.mp3",
+          "label": "French_villagermale_select_istealth_chigh_03",
+          "sha256": "eefe7a58fa479d749f815acbf9a1f4d29d77f7c4e1723fd078fe3b90fc6bc75e"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_istealth_chigh_04_alt01_mp3.mp3",
+          "label": "French_villagermale_select_istealth_chigh_04_alt01",
+          "sha256": "90c97d86d5d53aad29e4a589bb0090f2be524ee050c04ecf2c7758ca6b2f4609"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_select_istealth_chigh_04_mp3.mp3",
+          "label": "French_villagermale_select_istealth_chigh_04",
+          "sha256": "e8dd0f8e1234eb4e7dd1de7042da1a211a50c036544846bcfcadbeb5a720200e"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_selectsametypegc_ihigh_chigh_02_alt01_mp3.mp3",
+          "label": "Selectsametypegc 2.1 ♂️",
+          "sha256": "79811e246bf9546df625b56478a3d61b700e4b6e7bd17879389b89c7be1ba9e8"
+        },
+        {
+          "file": "sounds/session.start/French_villagermale_selectsametypegc_ihigh_chigh_02_mp3.mp3",
+          "label": "Selectsametypegc 2 ♂️",
+          "sha256": "c8d2c330a6b8b6dedf571b4c5856916301f59c790905cc1476b0b00024733819"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Acknowledge 1.1 ♀️",
+          "sha256": "4edaf62e1b2368c8d8321e32ad5b313630da852b69dd7acbb06273a7da336b88"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_ihigh_chigh_01_mp3.mp3",
+          "label": "Acknowledge 1 ♀️",
+          "sha256": "9df6c597b11c0b8ee0e224e10362e0d19e3bef4a3059c88a0a5fd9590f38fd83"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_ihigh_chigh_02_alt01_mp3.mp3",
+          "label": "Acknowledge 2.1 ♀️",
+          "sha256": "f48bc15906711857a2ce4beab50bf3b592a33bb916551df445860d598ccd375d"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_ihigh_chigh_02_mp3.mp3",
+          "label": "Acknowledge 2 ♀️",
+          "sha256": "46f82569bb5888a40e9f473cd7ca79bcfa31a748bf576f4de3f98dbb474567b6"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_ihigh_chigh_03_alt01_mp3.mp3",
+          "label": "Acknowledge 3.1 ♀️",
+          "sha256": "5d87c2a63cd870a0b21de1350532122d6fc9cb2194ac05f112d941261959da9c"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_ihigh_chigh_03_mp3.mp3",
+          "label": "Acknowledge 3 ♀️",
+          "sha256": "9267aa9323baf1d5888bd08b9a32aa4b4b8122fdae0a6f13165906e7278c3c26"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_ihigh_chigh_04_alt01_mp3.mp3",
+          "label": "Acknowledge 4.1 ♀️",
+          "sha256": "82f843ab3178e0a11e0dcff4b90b8a0f377ec197b3c59abe37662d09b224af8b"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_ihigh_chigh_04_mp3.mp3",
+          "label": "Acknowledge 4 ♀️",
+          "sha256": "2d4a5727a0298ea226b3ddd1873d0c8d79b6bfcaf470c9c325cdb93d9ed83d23"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_ihigh_chigh_05_alt01_mp3.mp3",
+          "label": "Acknowledge 5.1 ♀️",
+          "sha256": "2216f6683555efbfbb319d523624ec2fce002eefff6e66e5b30c0f5b8e1b46ab"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_ihigh_chigh_05_mp3.mp3",
+          "label": "Acknowledge 5 ♀️",
+          "sha256": "0ebef55e0827af50c1e7033189f53085d91a46445926719178764175ed7dacf5"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Acknowledge 1.1 ♀️",
+          "sha256": "d1ca4e526b2643a39619c2ebe690450ed9b29d619d48ad8946d5fef298bdaf3e"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_inorm_chigh_01_mp3.mp3",
+          "label": "Acknowledge 1 ♀️",
+          "sha256": "e874ebb5be3fa4d267bd96849e91426a5fe60c521b50a49e11c20abc581685cd"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Acknowledge 2.1 ♀️",
+          "sha256": "8ed65cbf164d2d7dab01ad7f57c04e8359aeadfbc5b69b0ad8b594de0bc68f81"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_inorm_chigh_02_mp3.mp3",
+          "label": "Acknowledge 2 ♀️",
+          "sha256": "94592fdcd8e457eb1d697ea5778b32187a3d9105181efd9b562ddddf1ab337aa"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_inorm_chigh_03_alt01_mp3.mp3",
+          "label": "Acknowledge 3.1 ♀️",
+          "sha256": "b56a234aac470dec8109b05acd32cbc404facd02aae767c4a0bd3761ca8217f8"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_inorm_chigh_03_alt02_mp3.mp3",
+          "label": "Acknowledge 3.2 ♀️",
+          "sha256": "fc08976c88f1ae2bf454c1a54dbdc4f2f8a122f02fcec4c7e4791bd2ad580ac9"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_inorm_chigh_03_mp3.mp3",
+          "label": "Acknowledge 3 ♀️",
+          "sha256": "7748bd041ba3baea6a2af769f28d21f0a08222b583559819005e0f486d08f31e"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_inorm_chigh_04_alt01_mp3.mp3",
+          "label": "Acknowledge 4.1 ♀️",
+          "sha256": "a9410cc99d0fb61bd7f3244266aed8760f1f9843827420ef585585235f918526"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_inorm_chigh_04_mp3.mp3",
+          "label": "Acknowledge 4 ♀️",
+          "sha256": "da0cc7832aa9a2de1c5b4b68e412a4078593a4ef91bd5027685e4674fb265604"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_inorm_chigh_05_alt01_mp3.mp3",
+          "label": "Acknowledge 5.1 ♀️",
+          "sha256": "4de2a6827f9803146c003015071bb2ff539afcbe20025ec0eaa0c3a0b7386cb4"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_inorm_chigh_05_mp3.mp3",
+          "label": "Acknowledge 5 ♀️",
+          "sha256": "dc2cd45efb94ce9342718ce91c1764c837140b37eac0ef67fe86e7df30900d6a"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_istealth_chigh_01_alt01_mp3.mp3",
+          "label": "French_villagerfemale_acknowledge_istealth_chigh_01_alt01",
+          "sha256": "1f2b6eda8dd01df1cd7836534e2990f6687ab2b2c50072d863d252c77ce396f7"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_istealth_chigh_01_mp3.mp3",
+          "label": "French_villagerfemale_acknowledge_istealth_chigh_01",
+          "sha256": "6d894cee6382e5899a9e80a3458941594993e0dd0ed8c9f2950b76f07ef07625"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_istealth_chigh_02_alt01_mp3.mp3",
+          "label": "French_villagerfemale_acknowledge_istealth_chigh_02_alt01",
+          "sha256": "44290f9f6d1f2bd8560bc8babac1eee41bc121fbd7c3a12c3e0aa796d16b988e"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_istealth_chigh_02_mp3.mp3",
+          "label": "French_villagerfemale_acknowledge_istealth_chigh_02",
+          "sha256": "3d6c93ef499e15ccad2eed97cc8e9bfc67159cf054ceb8c22afb1402de53905b"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_istealth_chigh_03_alt01_mp3.mp3",
+          "label": "French_villagerfemale_acknowledge_istealth_chigh_03_alt01",
+          "sha256": "39cf8c3ac263efeb950f76ff5fecb53cba06258cc4460cbcb4f73459dc7a49c7"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_istealth_chigh_03_mp3.mp3",
+          "label": "French_villagerfemale_acknowledge_istealth_chigh_03",
+          "sha256": "c7875e6656c330c44a2cd303e5e7604441699c417ffe564e5d7402afba20d052"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_istealth_chigh_04_alt01_mp3.mp3",
+          "label": "French_villagerfemale_acknowledge_istealth_chigh_04_alt01",
+          "sha256": "ca470a76b4083e21ec6cbd11d93402b98a30cb9a020b76c2568b2246b5d6b84d"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_istealth_chigh_04_mp3.mp3",
+          "label": "French_villagerfemale_acknowledge_istealth_chigh_04",
+          "sha256": "337950c796e57e8778d1c2b82771067516df1070d06012e53a2f32bb18b02fd6"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_istealth_chigh_05_alt01_mp3.mp3",
+          "label": "French_villagerfemale_acknowledge_istealth_chigh_05_alt01",
+          "sha256": "de4a98beef869d727413acec04c7d4c6a959c8a1fec63ee5d04931307afe5da6"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledge_istealth_chigh_05_mp3.mp3",
+          "label": "French_villagerfemale_acknowledge_istealth_chigh_05",
+          "sha256": "d85236fb9d27ce8903a99df4d5f1c50202a6eb8f7a3a298d1ba2549c80445648"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 1.1 ♀️",
+          "sha256": "83cbcee2f0b65af7c92c7c55c771eae6df436538e50053be91e65b6d4db2cd90"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_ihigh_chigh_01_mp3.mp3",
+          "label": "Acknowledgegmr 1 ♀️",
+          "sha256": "c6d6521335f5364bd70edb56a31d68bdcf72a488188b2b27f7a37cbd72c5dd7a"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_ihigh_chigh_02_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 2.1 ♀️",
+          "sha256": "98524c5e3d131fe2a2d54899c9594d8d70a96ff84dbdfffc06476b7329e56e03"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_ihigh_chigh_02_mp3.mp3",
+          "label": "Acknowledgegmr 2 ♀️",
+          "sha256": "30ff8a73ca68f98e4afa4a60719b4d5c9ab79e0cb99f74c31e7eb6b6cd03dde9"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_ihigh_chigh_03_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 3.1 ♀️",
+          "sha256": "62537c0773be2e7e70712aa928664b9c7f8ad8957bb50933adba48ac7b990c43"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_ihigh_chigh_03_mp3.mp3",
+          "label": "Acknowledgegmr 3 ♀️",
+          "sha256": "f23e9357e01143f15e3b7a3565cbc28160ccb916649f209b6c9dd53a4f8aafd5"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_ihigh_chigh_04_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 4.1 ♀️",
+          "sha256": "4ff419db29dc20f41d113edfaa0cc022168358c82297f1c5f6c95c7bfaf91081"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_ihigh_chigh_04_mp3.mp3",
+          "label": "Acknowledgegmr 4 ♀️",
+          "sha256": "971e878fd2da9158ce07c7c0f300b63a140c0d248b171827f4d1e12e4ec0e71f"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_ihigh_chigh_05_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 5.1 ♀️",
+          "sha256": "79898d01ca2d039044d0252c8e4fef173c79acea46783a19282fc2cab97a06f3"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_ihigh_chigh_05_mp3.mp3",
+          "label": "Acknowledgegmr 5 ♀️",
+          "sha256": "0c8d807cbe3aa8d817150e2a27d429c2863e381a6ded00fcb25130c207dfb515"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_ihigh_chigh_06_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 6.1 ♀️",
+          "sha256": "e6e29e64da32945e8149de80a16c2f28ac39f3b73bc2b14bfd42e874b4e7fa19"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_ihigh_chigh_06_mp3.mp3",
+          "label": "Acknowledgegmr 6 ♀️",
+          "sha256": "c144265df8543959ccf2a907ca950d58a9902c9f7f7424ea40d2e15c594fac08"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 1.1 ♀️",
+          "sha256": "221d89894a82abde14142174f814a1c62fb11303bfe33099c69815e82b89dfce"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_inorm_chigh_01_mp3.mp3",
+          "label": "Acknowledgegmr 1 ♀️",
+          "sha256": "c437097f2561c0cf7ca7116933698136dd186eb6ae8b4bebe39da50fa62e24f4"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 2.1 ♀️",
+          "sha256": "e8c43a368fa8cff18aae3582687efb4becdf02e7c1d810acb5ab7098a5bd01fe"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_inorm_chigh_02_mp3.mp3",
+          "label": "Acknowledgegmr 2 ♀️",
+          "sha256": "e9152d53be2d19e0f4946cec8ec29d457c558d7413a76d3ccdeb3ba069e21230"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_inorm_chigh_03_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 3.1 ♀️",
+          "sha256": "74828d6a2c0264c1e3a48f8b909b4a790e1387eae8cad15af3bdeba933e4afdd"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_inorm_chigh_03_mp3.mp3",
+          "label": "Acknowledgegmr 3 ♀️",
+          "sha256": "49e644e6c4c0e6bd3217a10f311db75f7c63596db792eb0e48d079cbeda2ad94"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_inorm_chigh_04_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 4.1 ♀️",
+          "sha256": "158dd33924d183e3f158523cb0bc3baf414ab60998cdcdf4db94c2bf467edc51"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_inorm_chigh_04_mp3.mp3",
+          "label": "Acknowledgegmr 4 ♀️",
+          "sha256": "7bbc81096693fbcb36fb1562a582ec23c6fd7d8eb4d04c6ff8fb90d8b8552012"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_inorm_chigh_05_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 5.1 ♀️",
+          "sha256": "1bf614fcf8fb266d9038e80f47fd1805a1ac43b580954078329116799237e583"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_inorm_chigh_05_mp3.mp3",
+          "label": "Acknowledgegmr 5 ♀️",
+          "sha256": "678b9c10b0f7936c4a8f49da2362356ddc59208a7d22f8100c6e76e1c26b5bb9"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_inorm_chigh_06_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 6.1 ♀️",
+          "sha256": "53f9b7e6c3fe1e0d2aca67e46f411dd3f640fce2d69426d2285e5b80c6040cc0"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_acknowledgegmr_inorm_chigh_06_mp3.mp3",
+          "label": "Acknowledgegmr 6 ♀️",
+          "sha256": "007417a98521f282167dc35b1ea7b1902bb694942e9821a1a4fd9edf3123ef96"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_attack_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Attack 1.1 ♀️",
+          "sha256": "d207c43e3cbb9fccdfdc9aa025ef05280cc861491fcb191140c3e310d641b2bf"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_attack_ihigh_chigh_01_mp3.mp3",
+          "label": "Attack 1 ♀️",
+          "sha256": "1b8081e632476894a5949e4c3900be20c413328628a646b4c123385d176de05a"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_attack_ihigh_chigh_02_alt01_mp3.mp3",
+          "label": "Attack 2.1 ♀️",
+          "sha256": "d72447083b7990973c7e7f4118703890d5986dbf09ec90bd144623e42428099b"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_attack_ihigh_chigh_02_mp3.mp3",
+          "label": "Attack 2 ♀️",
+          "sha256": "c83b5eba48868e5c4f01d5ca70893ee95172e66851044620524ee920b8d4770f"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_attack_ihigh_chigh_03_alt01_mp3.mp3",
+          "label": "Attack 3.1 ♀️",
+          "sha256": "f4913e9bf133de5652232e97d3841167c7c177e260db0168560dc1fea39796e8"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_attack_ihigh_chigh_03_alt02_mp3.mp3",
+          "label": "Attack 3.2 ♀️",
+          "sha256": "94e8f735912b42398581e64811dfb3e19a75ae51b4c2666a9db171987d34bbf4"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_attack_ihigh_chigh_03_mp3.mp3",
+          "label": "Attack 3 ♀️",
+          "sha256": "3961cc306085930366964f8c512618d47e7757509fc8aff01a86847471d57db2"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_attack_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Attack 1.1 ♀️",
+          "sha256": "810f7eabbe73a5db61dd9b24e0cf4ee699303cb31d435c7cea52a74615ead990"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_attack_inorm_chigh_01_mp3.mp3",
+          "label": "Attack 1 ♀️",
+          "sha256": "fe8411ec7257df2652367eca107298abaf6af15f4057108333d9e383926cc1c3"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_attack_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Attack 2.1 ♀️",
+          "sha256": "748c70b15b6aa9cc17c58f161c8f260b157e107d43d002e87ce5bcd36df9c213"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_attack_inorm_chigh_02_mp3.mp3",
+          "label": "Attack 2 ♀️",
+          "sha256": "0af23bdcb10e704d19e27f4e6da92e6fee2b110ffdd982e32679d4a42d22ab33"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_attack_inorm_chigh_03_alt01_mp3.mp3",
+          "label": "Attack 3.1 ♀️",
+          "sha256": "c67c6ba3f0dddf605feb2de6ff278872b4fab22001417f41899426a5c7466824"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_attack_inorm_chigh_03_mp3.mp3",
+          "label": "Attack 3 ♀️",
+          "sha256": "141f21165d146019223767b88fa2650fa80fd632d2e66a2edeee4b5497134f06"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_resourcefishing_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Resourcefishing 1.1 ♀️",
+          "sha256": "cf8fd86e00ef6b5c5da16aa5c9e9b4fc6760bed417995ceaa3e51a0d1e6b1cac"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_unarmvillager_ihigh_chigh_02_mp3.mp3",
+          "label": "Unarmvillager 2 ♀️",
+          "sha256": "43992cfabc86b31f004530a5541efac55c166b0b4201726f0bed79499f5771ef"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_unarmvillager_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Unarmvillager 1.1 ♀️",
+          "sha256": "58694e577b4da87d9b75c92e438fbb8a058cee976fe87a3f64cce78ac9a6b96b"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_unarmvillager_inorm_chigh_01_mp3.mp3",
+          "label": "Unarmvillager 1 ♀️",
+          "sha256": "bc4e34ad759fba8e7f9a29c04626f07c074a20742c98dd6c77c69eed482d6c93"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_unarmvillager_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Unarmvillager 2.1 ♀️",
+          "sha256": "350f67f6f1b2e0184a1cf17b3ef178a1edf8eb4d432db5ad0536633975a5e5dc"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagerfemale_unarmvillager_inorm_chigh_02_mp3.mp3",
+          "label": "Unarmvillager 2 ♀️",
+          "sha256": "f4a218e42305a5c391a07327469474cef1fbd43b82e7fdcdfc84e101e1e8c3f1"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Acknowledge 1.1 ♂️",
+          "sha256": "51e80acdc23015754c2ea13728e9cd7f87a94382b193578f8f27493dfb153785"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_ihigh_chigh_01_mp3.mp3",
+          "label": "Acknowledge 1 ♂️",
+          "sha256": "e5b28c995a2f5bf6a76fa43705e59233022266260b217bf07d719c04243df853"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_ihigh_chigh_02_mp3.mp3",
+          "label": "Acknowledge 2 ♂️",
+          "sha256": "8902532b2276b43bf5d8b8b3e0cadc6ae5ae7a459c186a29fdf66183bb969132"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_ihigh_chigh_03_alt01_mp3.mp3",
+          "label": "Acknowledge 3.1 ♂️",
+          "sha256": "2e86cae015250fd779c90e870c6c8145c66373589d17b295ec3ba309b32eb32a"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_ihigh_chigh_03_mp3.mp3",
+          "label": "Acknowledge 3 ♂️",
+          "sha256": "1caf32ef75f7613353ca1a754343a45a5d027cf29648206191c8fd2afa9fbdb6"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_ihigh_chigh_04_mp3.mp3",
+          "label": "Acknowledge 4 ♂️",
+          "sha256": "01aae48365c9490128f11b40f91efebfcf15d6fa9701123875a9063ffe44e4ac"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_ihigh_chigh_05_alt01_mp3.mp3",
+          "label": "Acknowledge 5.1 ♂️",
+          "sha256": "c7f5effbe5e5b80d8baf31a74804904733381c4c925529b13078dc01bf41eb6a"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_ihigh_chigh_05_mp3.mp3",
+          "label": "Acknowledge 5 ♂️",
+          "sha256": "2a8cbef01588ecf2cab0725460dcf876cf415fc13860402fbb598bd801ac80f4"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Acknowledge 1.1 ♂️",
+          "sha256": "8499fdcd46c6762a030540b78833f6c46d9f7c55163b4f9a7eda6a691899fe1b"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_inorm_chigh_01_mp3.mp3",
+          "label": "Acknowledge 1 ♂️",
+          "sha256": "d3f178b61669688304a7feb193b40d4942f8b6210aa5ac7dcc170ebf0312dcb6"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Acknowledge 2.1 ♂️",
+          "sha256": "abc350e486670184e93ff4c51a2900b4128fe692b53b848c23940a038cb5b547"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_inorm_chigh_02_mp3.mp3",
+          "label": "Acknowledge 2 ♂️",
+          "sha256": "055dc7770298a8f7a563b61eff41af615df70cd0164929af73bba87036077404"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_inorm_chigh_03_alt01_mp3.mp3",
+          "label": "Acknowledge 3.1 ♂️",
+          "sha256": "3c40a5a07c3254146709a584830af44362cb7c7de39f2f589ca432b1cf27e511"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_inorm_chigh_03_mp3.mp3",
+          "label": "Acknowledge 3 ♂️",
+          "sha256": "a08e451349952dd6c35217bf44d83ee98eb2bd39153411d436a5bf4aed0f2408"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_inorm_chigh_04_alt01_mp3.mp3",
+          "label": "Acknowledge 4.1 ♂️",
+          "sha256": "66d20462757ece0d928b4d067fafc95ea739662a0a3947332c56f36cc13e54ee"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_inorm_chigh_04_mp3.mp3",
+          "label": "Acknowledge 4 ♂️",
+          "sha256": "52816b7a509d7deca30b47b609b01fb9d12040dbfa1c0f9dc3ecfb7ed93cf188"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_inorm_chigh_05_alt01_mp3.mp3",
+          "label": "Acknowledge 5.1 ♂️",
+          "sha256": "c69b722563a28df94417f5a64b99b516dc642f196e728b70f1064d687cd52a78"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_inorm_chigh_05_mp3.mp3",
+          "label": "Acknowledge 5 ♂️",
+          "sha256": "04c430c543153a3e0f667cb3fac6fa7e10562df5c92edeaca38543e04a1ff5d7"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_istealth_chigh_01_alt01_mp3.mp3",
+          "label": "French_villagermale_acknowledge_istealth_chigh_01_alt01",
+          "sha256": "3ff7abd610b8bbde32902e62ea1c19d4087f5c0937e136bf4c3e3526f4c4dd26"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_istealth_chigh_01_mp3.mp3",
+          "label": "French_villagermale_acknowledge_istealth_chigh_01",
+          "sha256": "89127d3a663f89d75e93b06ed151b2d86610cd2c071638c53e0f747077f2c9b5"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_istealth_chigh_02_alt01_mp3.mp3",
+          "label": "French_villagermale_acknowledge_istealth_chigh_02_alt01",
+          "sha256": "6e6678175455c870f9797e055b93d6306d2694f4bc9f2166fa26de862497be69"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_istealth_chigh_02_mp3.mp3",
+          "label": "French_villagermale_acknowledge_istealth_chigh_02",
+          "sha256": "4da62b043dd503bc23afac20022c6c09986c0a9dbf5a044e3be193c2947fe7f6"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_istealth_chigh_03_alt01_mp3.mp3",
+          "label": "French_villagermale_acknowledge_istealth_chigh_03_alt01",
+          "sha256": "bf05d058286988d0a6e1d3c34c7d4b27459f0ad4856432a2f7543f9d67e135f8"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_istealth_chigh_03_mp3.mp3",
+          "label": "French_villagermale_acknowledge_istealth_chigh_03",
+          "sha256": "4983a99d8e87908b7a6355d69b27ed62dad866eaad1d8f75e67262565fa00c1a"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_istealth_chigh_04_alt01_mp3.mp3",
+          "label": "French_villagermale_acknowledge_istealth_chigh_04_alt01",
+          "sha256": "20baad1cad1eed6c46d2cd43cb7dcdd81d4b285f004d72b2525f59a5013896d7"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_istealth_chigh_04_mp3.mp3",
+          "label": "French_villagermale_acknowledge_istealth_chigh_04",
+          "sha256": "f72e75d69dfd4e05e7f9ee7ee89fae0b69316af0576851b75afa951723f7962d"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_istealth_chigh_05_alt01_mp3.mp3",
+          "label": "French_villagermale_acknowledge_istealth_chigh_05_alt01",
+          "sha256": "6ceb4c29d88eb4c4cae36fafe96da725c93a1ac4c5e6a3315010ef54fd6f1120"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledge_istealth_chigh_05_mp3.mp3",
+          "label": "French_villagermale_acknowledge_istealth_chigh_05",
+          "sha256": "bcb156c7581113de9067e99406d243215c31c1280a7d229d4f6dd5874a9a88ef"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 1.1 ♂️",
+          "sha256": "cd4769972c09dc58d0fd723d81b3566e35f8f513f9db15d7b6fa174eb4bb22a5"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_ihigh_chigh_01_mp3.mp3",
+          "label": "Acknowledgegmr 1 ♂️",
+          "sha256": "40306aed12a680d8913456fb0b0d1c0b48c3ff6f57c64fe78636204c96b99e86"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_ihigh_chigh_02_mp3.mp3",
+          "label": "Acknowledgegmr 2 ♂️",
+          "sha256": "a9727cf9895fb4005474ecd49113619fc9c61faaf1985dfa2dbf9f93c65807a7"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_ihigh_chigh_03_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 3.1 ♂️",
+          "sha256": "9d4d53d8ba1e00cd9723d5f11c20966b476e206b2101eef821e31de87ee29557"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_ihigh_chigh_03_mp3.mp3",
+          "label": "Acknowledgegmr 3 ♂️",
+          "sha256": "1227b5b6a0ee4cbab4da7a45e0b6bb5d74f7aa6099dc561528ecaf02e57e2f32"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_ihigh_chigh_04_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 4.1 ♂️",
+          "sha256": "2506e0c0e3e1ca5b43d4f1069dc99965cc5211fe087663e4b6c77eca72f9efc1"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_ihigh_chigh_04_mp3.mp3",
+          "label": "Acknowledgegmr 4 ♂️",
+          "sha256": "127376e3fefd23dfefbbf3373f3bb3f9f3052ddf38a31cecc1e850b0f3b1131c"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_ihigh_chigh_05_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 5.1 ♂️",
+          "sha256": "dc5ac856722f46849ccd9f58391bf1357a4c18da931689e58efd003c90d9fa00"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_ihigh_chigh_05_mp3.mp3",
+          "label": "Acknowledgegmr 5 ♂️",
+          "sha256": "55e914f6ce06cfa63394654142c0da316145cd2f6f4ab1e55459c17ff7b802be"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_ihigh_chigh_06_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 6.1 ♂️",
+          "sha256": "bb85bdfa2cb75cd833e8d63f7c1b73fd69bfcd2cdb37f7955d50cde86a8f70d4"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_ihigh_chigh_06_mp3.mp3",
+          "label": "Acknowledgegmr 6 ♂️",
+          "sha256": "c8e90c74d367f0f7218df3e756e039e163f7abce85387b2200090ca38e11a6f5"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 1.1 ♂️",
+          "sha256": "a7c13920060a5452bb13d122aefb93c71b224698ce3ec82c4619e8433a73d43b"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_inorm_chigh_01_mp3.mp3",
+          "label": "Acknowledgegmr 1 ♂️",
+          "sha256": "15f22829455df7189493c7d55553ad3db17fedfdb93f1bb9ed047a65392ef627"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 2.1 ♂️",
+          "sha256": "cbeb4d6c00162c25b9a811e48cb78d7ef57bf4247415607d907ef925e3b4b55b"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_inorm_chigh_02_mp3.mp3",
+          "label": "Acknowledgegmr 2 ♂️",
+          "sha256": "74e581d98cee236d28e587e754b3c27f8f5c89f2ba2e4a61c7636c81329cbf47"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_inorm_chigh_03_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 3.1 ♂️",
+          "sha256": "fadf71de22889d69bb8ae5b336ae2f2fb9bf77b9525bd75456f819b5d303efc1"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_inorm_chigh_03_mp3.mp3",
+          "label": "Acknowledgegmr 3 ♂️",
+          "sha256": "9d6447acabd0be943aa0e072d1974ed4158262f376660a012d3c4677676325f2"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_inorm_chigh_04_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 4.1 ♂️",
+          "sha256": "62fee636ab7c7be9d5fbaaac113968819d971c14e1d726c350b8738300d66c35"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_inorm_chigh_04_mp3.mp3",
+          "label": "Acknowledgegmr 4 ♂️",
+          "sha256": "a7e83f40cf800b6a9e36204468054253d86802927df4d3eafb888cbc70c0519f"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_inorm_chigh_05_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 5.1 ♂️",
+          "sha256": "e6102ffb3b6e8f60c2f3cbcc4f2ec327509bcabef30854490c9fd7e33193c928"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_inorm_chigh_05_mp3.mp3",
+          "label": "Acknowledgegmr 5 ♂️",
+          "sha256": "fab343bb13d34f5a4cb652b98f6feee74ebd4757db707eb5cc03e8c27fc413da"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_inorm_chigh_06_alt01_mp3.mp3",
+          "label": "Acknowledgegmr 6.1 ♂️",
+          "sha256": "57c89c86f19fd46e44de130efadd2457631cf7bba1c1a8f7cb03a8f2168fbd93"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_acknowledgegmr_inorm_chigh_06_mp3.mp3",
+          "label": "Acknowledgegmr 6 ♂️",
+          "sha256": "48a13422f113cc0601ee1821bab7f28688f43dc633d31d02113d3337d84879b0"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_attack_ihigh_chigh_01_mp3.mp3",
+          "label": "Attack 1 ♂️",
+          "sha256": "1f9c21ffd19e43e252bf7836415bf772c0752e95fde21421010d09ef23712ed3"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_attack_ihigh_chigh_02_alt01_mp3.mp3",
+          "label": "Attack 2.1 ♂️",
+          "sha256": "9fabf2f7cf4cab702db3a04345622133894cdc89d273f823276e4c2fb76b2a29"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_attack_ihigh_chigh_02_mp3.mp3",
+          "label": "Attack 2 ♂️",
+          "sha256": "8beecad1b7e3d53018945d623955d3e6d2d72bce7a69a4f070a0fff851f6c0cf"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_attack_ihigh_chigh_03_mp3.mp3",
+          "label": "Attack 3 ♂️",
+          "sha256": "8452e7c3a28fa49a028c29ffd1bb14bb0c43bff4483196c9a1f9b36908f9e88e"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_attack_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Attack 1.1 ♂️",
+          "sha256": "9263b76c2d2b3743f26283013b49fed59b473abe6cf5d54ccbc7b00c9d6c4049"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_attack_inorm_chigh_01_mp3.mp3",
+          "label": "Attack 1 ♂️",
+          "sha256": "e3bb1b8b5bafd8313aaced255b28fd5baf5a4d1fa79e8bfe7b952d87387e40fb"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_attack_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Attack 2.1 ♂️",
+          "sha256": "6676646b69fb30a48d65aca9bfd1146829a3c8a90776345fad87f660fa15cc13"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_attack_inorm_chigh_02_mp3.mp3",
+          "label": "Attack 2 ♂️",
+          "sha256": "5b5b3647dc6c6585c7296019c5657443f8d4f9e967f9d551d07a58338cdc83c7"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_attack_inorm_chigh_03_alt01_mp3.mp3",
+          "label": "Attack 3.1 ♂️",
+          "sha256": "15990ac8fe44481c6baa615de473437dfa3f8ba320ad88cffd30f4f00d1decfb"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_attack_inorm_chigh_03_mp3.mp3",
+          "label": "Attack 3 ♂️",
+          "sha256": "161c12dd7ccf1b3d5dcbeaf7bbc2daceda8ef2af27f73930d6ef31d928d2875a"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurebuild_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Structurebuild 1.1 ♂️",
+          "sha256": "e2dd5941b387d122b5518b1f7cd7f02ce932a0191e23c7334342f61b53086656"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurebuild_ihigh_chigh_01_mp3.mp3",
+          "label": "Structurebuild 1 ♂️",
+          "sha256": "617e326c683b9980fc318d3ae16ac3ea411660e4dbc2337fe39be7466aad5b51"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurebuild_ihigh_chigh_02_alt01_mp3.mp3",
+          "label": "Structurebuild 2.1 ♂️",
+          "sha256": "0594804d8832438632436167b998125db38cfb326863d8ec8a62d551f12c1132"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurebuild_ihigh_chigh_02_mp3.mp3",
+          "label": "Structurebuild 2 ♂️",
+          "sha256": "2fd98ef9d325162efa83b9df4bf3922f0fae17138bdd7a86f71a0fda522670c5"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurebuild_ihigh_chigh_03_alt01_mp3.mp3",
+          "label": "Structurebuild 3.1 ♂️",
+          "sha256": "dde538e113b7d952310aba0df9e7b5df24abf6404078c4b84bf23941920e1d73"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurebuild_ihigh_chigh_03_mp3.mp3",
+          "label": "Structurebuild 3 ♂️",
+          "sha256": "ba9bf25a233bc8b9346ecb4cae1032ac3b0b134e2a1caf4a9fc74ade63638292"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurebuild_inorm_chigh_01_mp3.mp3",
+          "label": "Structurebuild 1 ♂️",
+          "sha256": "bf9a8f777580f40693403bbb9e214705b6050df216cc21657ea693e1e7b49922"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurebuild_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Structurebuild 2.1 ♂️",
+          "sha256": "5a07d3c214a5e9c8743a0d6de88f73fb2de8d30cb5b7c3bde3d8dc2093309427"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurebuild_inorm_chigh_02_mp3.mp3",
+          "label": "Structurebuild 2 ♂️",
+          "sha256": "9e019af5551baf35f44e919febe9b13b96b04b886aebd443f1213d34d40ac5ee"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurebuild_inorm_chigh_03_alt01_mp3.mp3",
+          "label": "Structurebuild 3.1 ♂️",
+          "sha256": "81609b09bc02fee1049dd622948b5df63656cfd205368192fa44abca072acec6"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurebuild_inorm_chigh_03_mp3.mp3",
+          "label": "Structurebuild 3 ♂️",
+          "sha256": "51aced0b906583d60e3e9f5075a3905203a97fcff56bb808e9566b178eed518f"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurerepair_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Structurerepair 1.1 ♂️",
+          "sha256": "c295ff0b9a5912070f37321c5aaf22b737c55b1cd662c14dd19e5ae306ef8c07"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurerepair_ihigh_chigh_01_mp3.mp3",
+          "label": "Structurerepair 1 ♂️",
+          "sha256": "40822e04bacd7db26a94bdaadfad550c54026830df50311748be92f9bb53bb18"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurerepair_ihigh_chigh_02_mp3.mp3",
+          "label": "Structurerepair 2 ♂️",
+          "sha256": "6c09b9c764cb9a9ec9dbeebe2247e98fda74908b68234467e6effca5b21e7030"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurerepair_ihigh_chigh_03_alt01_mp3.mp3",
+          "label": "Structurerepair 3.1 ♂️",
+          "sha256": "4552001328cdd777bd721cd6f13b71abe3743e9ad839cd13307ad6a7c75bd778"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurerepair_ihigh_chigh_03_mp3.mp3",
+          "label": "Structurerepair 3 ♂️",
+          "sha256": "5182b6ba0340b6e8c33e122e7679408159542d8e9a7b718d85d486062d8ccb83"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurerepair_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Structurerepair 1.1 ♂️",
+          "sha256": "0608b1424a898fcae5763aaeceb468d399b14cf88730440f49bada4bcda0712f"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurerepair_inorm_chigh_01_mp3.mp3",
+          "label": "Structurerepair 1 ♂️",
+          "sha256": "d8bae1da69955fb480bf03e736ee639946e6592200a2a337aa6ea9324cb4c123"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurerepair_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Structurerepair 2.1 ♂️",
+          "sha256": "155ad54fea71bee0a93016ecdc1b4c6140db9a29f1ad936caa89f13eeaf7d76a"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurerepair_inorm_chigh_02_mp3.mp3",
+          "label": "Structurerepair 2 ♂️",
+          "sha256": "b2b9a839c00fdfa667625516c4341725a678e69c2c4a12b246a2abd3802e40c2"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurerepair_inorm_chigh_03_alt01_mp3.mp3",
+          "label": "Structurerepair 3.1 ♂️",
+          "sha256": "d5a4d039c048c7f85fc74f979050627dc59043efdfce18601109e35bdaea27cc"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_structurerepair_inorm_chigh_03_mp3.mp3",
+          "label": "Structurerepair 3 ♂️",
+          "sha256": "959f2d4fa7f5507365165dd9e6aaabf8bcb25dc6c64e5e336da2e2adf955b588"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_unarmvillager_ihigh_chigh_02_mp3.mp3",
+          "label": "Unarmvillager 2 ♂️",
+          "sha256": "7446ed6adfd482db087d431be903176b5ac3c23e2137d1c9d9451fce24eed58c"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_unarmvillager_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Unarmvillager 1.1 ♂️",
+          "sha256": "6c91653b7010a5760e97e0ee3c9fcd4143f46f38f45b7ecd621c040a360b7648"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_unarmvillager_inorm_chigh_01_mp3.mp3",
+          "label": "Unarmvillager 1 ♂️",
+          "sha256": "bd89fc10e0e967e5f19e1df211f8c4d625286547a068905ddbdaa495f0f689f1"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_unarmvillager_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Unarmvillager 2.1 ♂️",
+          "sha256": "cf44e8d9d090a0d39c8bb2f16c65d891b91e281cca1257d0ee9f393c411dc7f7"
+        },
+        {
+          "file": "sounds/task.acknowledge/French_villagermale_unarmvillager_inorm_chigh_02_mp3.mp3",
+          "label": "Unarmvillager 2 ♂️",
+          "sha256": "a9890e51952792f9e35cdd6278ad83f062bc5fd12ecc74759f923c27f214f5d5"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/task.complete/French_villagerfemale_reactproud_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Reactproud 1.1 ♀️",
+          "sha256": "340615475b692dfe4e4cc7a80583ec126c1e3b845593e5578e63cb17324374eb"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_reactproud_inorm_chigh_01_mp3.mp3",
+          "label": "Reactproud 1 ♀️",
+          "sha256": "f47e66242938525ba1fdac6fe0875d9af56d9bfe737096652a863e586f5b4e41"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_reactproud_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Reactproud 2.1 ♀️",
+          "sha256": "0500efdf236c4f041eb6cce081e7b255b8adeef524ffedee25c2df915435e701"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_reactproud_inorm_chigh_02_mp3.mp3",
+          "label": "Reactproud 2 ♀️",
+          "sha256": "a7953c12542df81fbe758c82ec387a72ae47b1079e84ca7156f6d15c5831f832"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_reactproud_inorm_chigh_03_alt01_mp3.mp3",
+          "label": "Reactproud 3.1 ♀️",
+          "sha256": "23280338c89bea532b56cd3f27f926dfad490f0298a531b8bb0163e7f4d65a94"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_reactproud_inorm_chigh_03_alt02_mp3.mp3",
+          "label": "Reactproud 3.2 ♀️",
+          "sha256": "ea36ce82a4afb834e4cfe11c6824831c3e2dda22ad4fbf60bd393ca409dfcba8"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_reactproud_inorm_chigh_03_mp3.mp3",
+          "label": "Reactproud 3 ♀️",
+          "sha256": "0829561b1d61f38bb54f5c737b80a4df0b2a5fb2492777f5d28d888f4e456bec"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_reactproud_inorm_chigh_04_alt01_mp3.mp3",
+          "label": "Reactproud 4.1 ♀️",
+          "sha256": "0cbd073099c5716f3e3526d78ef630e4563d4bf0f2fdecd6dc64382d5967d096"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_reactproud_inorm_chigh_04_mp3.mp3",
+          "label": "Reactproud 4 ♀️",
+          "sha256": "a5c831c812ebc44115c917730d5ecfb605b47abf2d57f9bfc7ac489625109bfa"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_selectcart_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Selectcart 1.1 ♀️",
+          "sha256": "3709449f1749cabc4bb941cc95ca8f4072592effe409b16ceded31c76e175814"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_selectcart_ihigh_chigh_01_mp3.mp3",
+          "label": "Selectcart 1 ♀️",
+          "sha256": "d076732173de6fce87f21c662b4125d40f6ae6083e281605687021f648f29353"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_selectcart_ihigh_chigh_02_alt01_mp3.mp3",
+          "label": "Selectcart 2.1 ♀️",
+          "sha256": "a82cb2045ac613598625eaad29b8113000885be2cd25a7c4a9042dc637433c80"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_selectcart_ihigh_chigh_02_mp3.mp3",
+          "label": "Selectcart 2 ♀️",
+          "sha256": "2fa2e43b2ad04c29ba140b5f362d3fc7d4f08416c57a00d55eba4a2f21a5ecde"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_selectcart_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Selectcart 1.1 ♀️",
+          "sha256": "63d9cb544468b4074cd770348b1027aeeb15d2a68aeb9aaacd7207c13334ca6c"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_selectcart_inorm_chigh_01_mp3.mp3",
+          "label": "Selectcart 1 ♀️",
+          "sha256": "a6adb644bd0c873cb5fe04255880cf85b11f9211a8e213ef679c53c3715a2378"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_selectcart_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Selectcart 2.1 ♀️",
+          "sha256": "60962d12a38d8cce5f50d4fe04d8c11fd86eb3fec14f21207af40ab71df16d08"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_selectcart_inorm_chigh_02_mp3.mp3",
+          "label": "Selectcart 2 ♀️",
+          "sha256": "cf2335531cda04dca99d1edc90aeed3b7f89a88696e35482e67ba00d4441c0eb"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_unarmvillager_ihigh_chigh_01_mp3.mp3",
+          "label": "Unarmvillager 1 ♀️",
+          "sha256": "0528b0d2dbe1bcc3a70680d2325e49c414928632d0e19a0da54b27d975343804"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_workingidle_inorm_chigh_01_mp3.mp3",
+          "label": "Workingidle 1 ♀️",
+          "sha256": "ca7fbbaee0b90d8b286ae455ea0acd581111557dd90dfbae3974f77c9e938010"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_workingidle_inorm_chigh_02_mp3.mp3",
+          "label": "Workingidle 2 ♀️",
+          "sha256": "46ec61e1971bf5ff524178b558f9b6d32c86e05750af51c33070a00613c5d104"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_workingidle_inorm_chigh_03_alt01_mp3.mp3",
+          "label": "Workingidle 3.1 ♀️",
+          "sha256": "c816fdd40d153811a0cd5531e2d418ec2e4114507c7a20b37c1482c2da712410"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_workingidle_inorm_chigh_03_mp3.mp3",
+          "label": "Workingidle 3 ♀️",
+          "sha256": "312855684426a5dd714103623993fde0e7b4851df7459048d25c3b35c4f88f77"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_workingidle_inorm_chigh_04_alt01_mp3.mp3",
+          "label": "Workingidle 4.1 ♀️",
+          "sha256": "6526dae2146e03a4adde20cec24f2acc7cd063805cbab93e66471d1d337c55f0"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_workingidle_inorm_chigh_04_mp3.mp3",
+          "label": "Workingidle 4 ♀️",
+          "sha256": "164db9fbe16e5ffcb3e1b51fe18efefde0e809f538d12989a7d157810d4cb985"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_workingidle_inorm_chigh_05_mp3.mp3",
+          "label": "Workingidle 5 ♀️",
+          "sha256": "cce56504f97b0c3e2afad6560acfd33dc76c37cbee5d59b8e91d5e7fb515481e"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_workingidle_inorm_chigh_06_mp3.mp3",
+          "label": "Workingidle 6 ♀️",
+          "sha256": "46a36120b558d7a559a74c06f1ed31428d89d9d6d7851efcf18a672f159fae63"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_workingidle_inorm_chigh_07_alt01_mp3.mp3",
+          "label": "Workingidle 7.1 ♀️",
+          "sha256": "e2493246280f826e59697785b8732c93b192823ac59fb3655c047beb26f4806d"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_workingidle_inorm_chigh_07_mp3.mp3",
+          "label": "Workingidle 7 ♀️",
+          "sha256": "c1d55a1fdf311b32050a6731b139a179e209ebc3730b77b5f67e9fef475625ff"
+        },
+        {
+          "file": "sounds/task.complete/French_villagerfemale_workingidle_inorm_chigh_08_mp3.mp3",
+          "label": "Workingidle 8 ♀️",
+          "sha256": "c99c0f7b9ed555d479ba092e8b94cf1ca8466cc3269fd67c312ab8dda0a78531"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_reactproud_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Reactproud 1.1 ♂️",
+          "sha256": "beaf91072f7874dea3dd95e25c4026141b4d026444950d5b09760e5a81b4cc9b"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_reactproud_inorm_chigh_01_mp3.mp3",
+          "label": "Reactproud 1 ♂️",
+          "sha256": "659faf66021c0854b660641ed0b886944b5a39f8defc777009f53379b0fe3f9a"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_reactproud_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Reactproud 2.1 ♂️",
+          "sha256": "9dbb9c2135cf04a6b368ab634a2f24045787977b70a553ca86bc69f5dbd56a0c"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_reactproud_inorm_chigh_02_mp3.mp3",
+          "label": "Reactproud 2 ♂️",
+          "sha256": "1838547a7f4e1a0232a0377827178d4c7d35396615888dfcd5b3bf304b3bbda1"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_reactproud_inorm_chigh_03_alt01_mp3.mp3",
+          "label": "Reactproud 3.1 ♂️",
+          "sha256": "ee250acf44c410150846d2a37a3d14268b3c60383bf54dce805483ba489073d1"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_reactproud_inorm_chigh_03_mp3.mp3",
+          "label": "Reactproud 3 ♂️",
+          "sha256": "62aa456705de2f8c7b2b0be7552b5eb638f361a4c43bacf3a671e573fdcec1f5"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_reactproud_inorm_chigh_04_alt01_mp3.mp3",
+          "label": "Reactproud 4.1 ♂️",
+          "sha256": "2e004d74bcbd280a278b9ecd2c379c90af7499d87380bac40c332dbd0e8a807e"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_reactproud_inorm_chigh_04_mp3.mp3",
+          "label": "Reactproud 4 ♂️",
+          "sha256": "b318f1a702b61e5997dc13412ff7f75dffeb9bf83ce616fe7d8aed674383b2f6"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_selectcart_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Selectcart 1.1 ♂️",
+          "sha256": "9827b04ae125b69a8a3f7501e7a12880e09269b6ee21d3117fcaab393b1c7f84"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_selectcart_ihigh_chigh_01_mp3.mp3",
+          "label": "Selectcart 1 ♂️",
+          "sha256": "f202ad567bf4005bc1c3ce18ebdf179b3abd8ab12dffa9edc875de6b85892a59"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_selectcart_ihigh_chigh_02_alt01_mp3.mp3",
+          "label": "Selectcart 2.1 ♂️",
+          "sha256": "941c64a1ff3232ccfcb7f8ade476282e3bbc17c0a5c19e2bcbae52aeda805ed4"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_selectcart_ihigh_chigh_02_mp3.mp3",
+          "label": "Selectcart 2 ♂️",
+          "sha256": "8e29ea15b4b8c992e0aba7706b8e1cb8f72f33a4dc9fa7a10d035bc63b7eb5ba"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_selectcart_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Selectcart 1.1 ♂️",
+          "sha256": "6e302b677c0b40301aacd822082a31c7fb631e5ab377ee908ceab18a22345840"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_selectcart_inorm_chigh_01_mp3.mp3",
+          "label": "Selectcart 1 ♂️",
+          "sha256": "ff53a1110201100b7e08325bebb7d0135301de3aef1bf1f945e73d761e6e0252"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_selectcart_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Selectcart 2.1 ♂️",
+          "sha256": "bb0526ef1f912edfcbb862071f00f50a0fd88af54bb2c3d86b76411e0bc541b8"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_selectcart_inorm_chigh_02_mp3.mp3",
+          "label": "Selectcart 2 ♂️",
+          "sha256": "c6ebd0efabb5fa0f7b916648473af821fe3a50119ff987aebf7924a47cf17449"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_unarmvillager_ihigh_chigh_01_mp3.mp3",
+          "label": "Unarmvillager 1 ♂️",
+          "sha256": "88bc90fb1aced3a496fd154a0a70776eb5c1444c23d8b3b991dd1fa35e1dd23d"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_workingidle_inorm_chigh_01_mp3.mp3",
+          "label": "Workingidle 1 ♂️",
+          "sha256": "783cdaefdc29156d2d0717760a7f952979c740910684582e70c463480fc4b4e3"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_workingidle_inorm_chigh_02_mp3.mp3",
+          "label": "Workingidle 2 ♂️",
+          "sha256": "5793f6a9cdab913b49b4995eff5dc4c48570831ae81c71044def11881c371804"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_workingidle_inorm_chigh_03_alt01_mp3.mp3",
+          "label": "Workingidle 3.1 ♂️",
+          "sha256": "16cbc251f1061b0bef79afb544e8e39f7d91a9ecf182d8b735ac0701b364f89d"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_workingidle_inorm_chigh_03_mp3.mp3",
+          "label": "Workingidle 3 ♂️",
+          "sha256": "cfe1a275382dcc6d44883bbfee56dd228411add1404dda0926a2eef527df48b3"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_workingidle_inorm_chigh_04_mp3.mp3",
+          "label": "Workingidle 4 ♂️",
+          "sha256": "8a25acfb5984b13a2642cd15849ea3e6bb68a30bea715ad1d02bbfeb1aa1dc08"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_workingidle_inorm_chigh_05_mp3.mp3",
+          "label": "Workingidle 5 ♂️",
+          "sha256": "04e3c37267121f4138598092cc21103103c488f9661936e19ee0585fecd6b842"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_workingidle_inorm_chigh_06_mp3.mp3",
+          "label": "Workingidle 6 ♂️",
+          "sha256": "68c8c60f8e22bd106de8362f875382e877d01f3b6d552c1bb704a0df5cddb264"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_workingidle_inorm_chigh_07_alt01_mp3.mp3",
+          "label": "Workingidle 7.1 ♂️",
+          "sha256": "c9194624a4d3cdc75f12b822264b4f6a0225379f5cef510980913f5d6e7e7832"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_workingidle_inorm_chigh_07_mp3.mp3",
+          "label": "Workingidle 7 ♂️",
+          "sha256": "0f13b45bc87808e7d7e4941635c9f2e5441be46206af865e97a1312bc98558a9"
+        },
+        {
+          "file": "sounds/task.complete/French_villagermale_workingidle_inorm_chigh_08_mp3.mp3",
+          "label": "Workingidle 8 ♂️",
+          "sha256": "1d79e909c4f984f7bf5984c53cd06921f9c62058a0c9559ebc93c0058ad55a5c"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/task.error/French_villagerfemale_enemyspotted_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Enemyspotted 1.1 ♀️",
+          "sha256": "ee96b7ef1abf3e2fb5f64565e6db4bbc8bb10f329c12dfe78662ad7a0be8f13e"
+        },
+        {
+          "file": "sounds/task.error/French_villagerfemale_enemyspotted_ihigh_chigh_01_mp3.mp3",
+          "label": "Enemyspotted 1 ♀️",
+          "sha256": "808aa886a40ff063da06c6d6e5cc4d4948f60fd14fdf158b39f7deb868602ffe"
+        },
+        {
+          "file": "sounds/task.error/French_villagerfemale_enemyspotted_ihigh_chigh_02_alt01_mp3.mp3",
+          "label": "Enemyspotted 2.1 ♀️",
+          "sha256": "fdf095178bffc9da4285717d1503fbfe9ed151e7c90062be03cc80ebf86ecdde"
+        },
+        {
+          "file": "sounds/task.error/French_villagerfemale_enemyspotted_ihigh_chigh_02_mp3.mp3",
+          "label": "Enemyspotted 2 ♀️",
+          "sha256": "2ce5592fa887f13e328f468b85bfac93907ed7a17aa51afb700f33498003e735"
+        },
+        {
+          "file": "sounds/task.error/French_villagerfemale_enemyspotted_ihigh_chigh_03_alt01_mp3.mp3",
+          "label": "Enemyspotted 3.1 ♀️",
+          "sha256": "8675fa36fef0f2c8e5e9caac36a3ec225c5c1e92b34e880757da30b1ccbfa0ff"
+        },
+        {
+          "file": "sounds/task.error/French_villagerfemale_enemyspotted_ihigh_chigh_03_mp3.mp3",
+          "label": "Enemyspotted 3 ♀️",
+          "sha256": "55cd263046f71ea2b229f73c64eed5aa873324c00553b312de2954b2d5c65c65"
+        },
+        {
+          "file": "sounds/task.error/French_villagerfemale_underattack_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Underattack 1.1 ♀️",
+          "sha256": "ec21f926e983ea12a51ac8f47b06b0ced6223afb2fc3dff29955deb2573c295a"
+        },
+        {
+          "file": "sounds/task.error/French_villagerfemale_underattack_ihigh_chigh_01_mp3.mp3",
+          "label": "Underattack 1 ♀️",
+          "sha256": "2b257d7d2af0de87ab9a60603a82025017f42ee9c983b662103531ab79686b8e"
+        },
+        {
+          "file": "sounds/task.error/French_villagerfemale_underattack_ihigh_chigh_02_alt01_mp3.mp3",
+          "label": "Underattack 2.1 ♀️",
+          "sha256": "814ebef7b059009f0fb89994d9bb4812ec5607ce647bbddd7a332204a682b764"
+        },
+        {
+          "file": "sounds/task.error/French_villagerfemale_underattack_ihigh_chigh_02_mp3.mp3",
+          "label": "Underattack 2 ♀️",
+          "sha256": "6589a31005c87c3a17bd3fd130e3f0a298102f92aba811b9f20378a597fc5804"
+        },
+        {
+          "file": "sounds/task.error/French_villagerfemale_underattack_ihigh_chigh_03_alt01_mp3.mp3",
+          "label": "Underattack 3.1 ♀️",
+          "sha256": "eb0b71343af11e31f0a43f6d5c171a43dfd1761ee5a4d5b3e504fea024dc62a3"
+        },
+        {
+          "file": "sounds/task.error/French_villagerfemale_underattack_ihigh_chigh_03_mp3.mp3",
+          "label": "Underattack 3 ♀️",
+          "sha256": "420e941aa02466a799787eec491288d4c2afd757d8c45098de0c4a078757faee"
+        },
+        {
+          "file": "sounds/task.error/French_villagermale_enemyspotted_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Enemyspotted 1.1 ♂️",
+          "sha256": "0110c5e35a2e5f540770f8052269367ce59ab883898434fb7ba6502c89a2415a"
+        },
+        {
+          "file": "sounds/task.error/French_villagermale_enemyspotted_ihigh_chigh_01_mp3.mp3",
+          "label": "Enemyspotted 1 ♂️",
+          "sha256": "75670615223db10a1721a5a451debb317bf2f951eeba4234585af286e0a824fa"
+        },
+        {
+          "file": "sounds/task.error/French_villagermale_enemyspotted_ihigh_chigh_02_alt01_mp3.mp3",
+          "label": "Enemyspotted 2.1 ♂️",
+          "sha256": "6abc72903d4960741462114e119bf2a56d318e99af536c21196c9d52a921907a"
+        },
+        {
+          "file": "sounds/task.error/French_villagermale_enemyspotted_ihigh_chigh_02_mp3.mp3",
+          "label": "Enemyspotted 2 ♂️",
+          "sha256": "3d029a979701a6405e15fa8f78dd22e8f7a7ecc04c21a3e53cb4cafb598124d1"
+        },
+        {
+          "file": "sounds/task.error/French_villagermale_enemyspotted_ihigh_chigh_03_alt01_mp3.mp3",
+          "label": "Enemyspotted 3.1 ♂️",
+          "sha256": "982b22813831166414d1cba0d17c2de72b13727cb5576bf6427bb8ed2939fb56"
+        },
+        {
+          "file": "sounds/task.error/French_villagermale_enemyspotted_ihigh_chigh_03_mp3.mp3",
+          "label": "Enemyspotted 3 ♂️",
+          "sha256": "adf41fe81ac983df99ff84c76f6cbee6cf31dedb9d88be21e1519b0d858e3c78"
+        },
+        {
+          "file": "sounds/task.error/French_villagermale_underattack_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Underattack 1.1 ♂️",
+          "sha256": "709427b044b0928b3f52a33515d907d3c17e8364bd5ff3315c50b65848bd2203"
+        },
+        {
+          "file": "sounds/task.error/French_villagermale_underattack_ihigh_chigh_01_mp3.mp3",
+          "label": "Underattack 1 ♂️",
+          "sha256": "b06f01a3a61bb00ed3994422f6520797dfda5e1f23ae5483fb6010aca6582d04"
+        },
+        {
+          "file": "sounds/task.error/French_villagermale_underattack_ihigh_chigh_02_alt01_mp3.mp3",
+          "label": "Underattack 2.1 ♂️",
+          "sha256": "81bba1ffb0b960ce908b25481fd5de41e2b1dbfb2fa12f3111b902603b3d744a"
+        },
+        {
+          "file": "sounds/task.error/French_villagermale_underattack_ihigh_chigh_02_mp3.mp3",
+          "label": "Underattack 2 ♂️",
+          "sha256": "e035ad53c576f881c352f4aeedd3235c52c74cec4429d7f078ec608b8745116b"
+        },
+        {
+          "file": "sounds/task.error/French_villagermale_underattack_ihigh_chigh_03_alt01_mp3.mp3",
+          "label": "Underattack 3.1 ♂️",
+          "sha256": "99cd197b3712c251cd4c6a8decd8b0f884e0ae54d78ad5cf73baeeb9fea420bf"
+        },
+        {
+          "file": "sounds/task.error/French_villagermale_underattack_ihigh_chigh_03_mp3.mp3",
+          "label": "Underattack 3 ♂️",
+          "sha256": "d9d958de49295fae92cd6fa88fe6ffebc95e4d94277e8b226b5ad1a106fcab37"
+        }
+      ]
+    },
+    "task.progress": {
+      "sounds": [
+        {
+          "file": "sounds/task.progress/French_villagerfemale_dropoff_ihigh_chigh_01_mp3.mp3",
+          "label": "Dropoff 1 ♀️",
+          "sha256": "fc080a4da9df6919105c0443ede40f1e888e8550e34dcd2f76a7b6e1cc0bf09b"
+        },
+        {
+          "file": "sounds/task.progress/French_villagerfemale_dropoff_ihigh_chigh_02_mp3.mp3",
+          "label": "Dropoff 2 ♀️",
+          "sha256": "f3a1bfec3bcf3bd6a198b70ae118b7061147e3df16cc1b850df195cca372c915"
+        },
+        {
+          "file": "sounds/task.progress/French_villagerfemale_dropoff_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Dropoff 1.1 ♀️",
+          "sha256": "792e332f603dfb5f8fc9b3f3e004decdf8bc3286f5a7b199e8fc3e85f0a64c17"
+        },
+        {
+          "file": "sounds/task.progress/French_villagerfemale_dropoff_inorm_chigh_01_mp3.mp3",
+          "label": "Dropoff 1 ♀️",
+          "sha256": "e498e59d16c82aa820956915eac2f4986bc6e3b360adac44ec7ead6a1e92954c"
+        },
+        {
+          "file": "sounds/task.progress/French_villagerfemale_dropoff_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Dropoff 2.1 ♀️",
+          "sha256": "a907d75544cfaa2a79ab76f382f724d6a66187682f422fe2d38f62fdd87339aa"
+        },
+        {
+          "file": "sounds/task.progress/French_villagerfemale_dropoff_inorm_chigh_02_mp3.mp3",
+          "label": "Dropoff 2 ♀️",
+          "sha256": "46d7a395ebe1cde505b4861b4cbe97ec8ed6f652b0b52b56e93dadf601397230"
+        },
+        {
+          "file": "sounds/task.progress/French_villagerfemale_hold_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Hold 1.1 ♀️",
+          "sha256": "720a950b6126e7fb923733e2f6fc762db2632066ad6c1732d6a9db68fdc53f5c"
+        },
+        {
+          "file": "sounds/task.progress/French_villagerfemale_hold_ihigh_chigh_01_mp3.mp3",
+          "label": "Hold 1 ♀️",
+          "sha256": "0ae916a42207fe5f60160003a3fbedfb817d7dc077c5386f8d0e3fadb3443f25"
+        },
+        {
+          "file": "sounds/task.progress/French_villagerfemale_hold_ihigh_chigh_02_alt01_mp3.mp3",
+          "label": "Hold 2.1 ♀️",
+          "sha256": "25e1216f4c29a3597fee143c50fa637831fb0606666954863f4431fbef7966c2"
+        },
+        {
+          "file": "sounds/task.progress/French_villagerfemale_hold_ihigh_chigh_02_mp3.mp3",
+          "label": "Hold 2 ♀️",
+          "sha256": "f28235acc59092e902ab13fdbcbc1fc0ffc2db98bdf676f8fe88ff75bea3ff6e"
+        },
+        {
+          "file": "sounds/task.progress/French_villagerfemale_hold_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Hold 1.1 ♀️",
+          "sha256": "64835e14cc5a970ccf0065e1e82b2637cef3eaea63e2af4872b765fe038d5d22"
+        },
+        {
+          "file": "sounds/task.progress/French_villagerfemale_hold_inorm_chigh_01_mp3.mp3",
+          "label": "Hold 1 ♀️",
+          "sha256": "26524c5992a028203cc52fe7aceb0a3ec9fcd38a642f85a21aa801573edcbb6d"
+        },
+        {
+          "file": "sounds/task.progress/French_villagerfemale_hold_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Hold 2.1 ♀️",
+          "sha256": "a680db8da0486020434d36e5b8c79e32944ca610444151ae18373bfd7ff45c87"
+        },
+        {
+          "file": "sounds/task.progress/French_villagerfemale_hold_inorm_chigh_02_mp3.mp3",
+          "label": "Hold 2 ♀️",
+          "sha256": "5696aba8a5e2c410f5d6775c02657ad4ee2ce0f274cc76ddad3b643f216c06d4"
+        },
+        {
+          "file": "sounds/task.progress/French_villagermale_dropoff_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Dropoff 1.1 ♂️",
+          "sha256": "3c734f8e2475003839d41e2e27c96879ddf921c3c03bb777ca361bb086537200"
+        },
+        {
+          "file": "sounds/task.progress/French_villagermale_dropoff_ihigh_chigh_01_mp3.mp3",
+          "label": "Dropoff 1 ♂️",
+          "sha256": "4639cf0b5dbc1c2db02c9dd5ddd5eda6dbc9ad7017d6f21a5ead49560c6b0cb8"
+        },
+        {
+          "file": "sounds/task.progress/French_villagermale_dropoff_ihigh_chigh_02_mp3.mp3",
+          "label": "Dropoff 2 ♂️",
+          "sha256": "adf30d7bf6f2fe6b7a4039b8390d9c7eae17d4aba4cbc5e6ca44b812462953c5"
+        },
+        {
+          "file": "sounds/task.progress/French_villagermale_dropoff_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Dropoff 1.1 ♂️",
+          "sha256": "58f490be2db838cf801dd8b33ddb596ca4249f595f9113699fdd96752b365d03"
+        },
+        {
+          "file": "sounds/task.progress/French_villagermale_dropoff_inorm_chigh_01_mp3.mp3",
+          "label": "Dropoff 1 ♂️",
+          "sha256": "7388d2b598abb1522b074280f432db7850ef0ecb2c4cb3eb642efef71bded880"
+        },
+        {
+          "file": "sounds/task.progress/French_villagermale_dropoff_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Dropoff 2.1 ♂️",
+          "sha256": "509c3ffa555d8fc7a1937dc037c33e69e88b9c099c12b84805c55a761d89c850"
+        },
+        {
+          "file": "sounds/task.progress/French_villagermale_dropoff_inorm_chigh_02_mp3.mp3",
+          "label": "Dropoff 2 ♂️",
+          "sha256": "714315db3a73674eb6fa32bc96023a479abe4ce6d9fb0319556af0aa2d358684"
+        },
+        {
+          "file": "sounds/task.progress/French_villagermale_hold_ihigh_chigh_01_alt01_mp3.mp3",
+          "label": "Hold 1.1 ♂️",
+          "sha256": "7485efdcc1496b04c4834e5dd0c7a2029636967ca6077ba93848a4f7029a848e"
+        },
+        {
+          "file": "sounds/task.progress/French_villagermale_hold_ihigh_chigh_01_mp3.mp3",
+          "label": "Hold 1 ♂️",
+          "sha256": "75aa0f484ec1d32d1ea9d6e07db61e0437a25d2c993e8458a5bbd5fad4e8d035"
+        },
+        {
+          "file": "sounds/task.progress/French_villagermale_hold_ihigh_chigh_02_alt01_mp3.mp3",
+          "label": "Hold 2.1 ♂️",
+          "sha256": "a8cf2347756de56ef25729172ae96d005bd661f154498d24c71d07f628d92607"
+        },
+        {
+          "file": "sounds/task.progress/French_villagermale_hold_ihigh_chigh_02_mp3.mp3",
+          "label": "Hold 2 ♂️",
+          "sha256": "aca311d143682c3de2cf4a66182a02602bbd82d6d1b217ae64a32894f044a2cf"
+        },
+        {
+          "file": "sounds/task.progress/French_villagermale_hold_inorm_chigh_01_alt01_mp3.mp3",
+          "label": "Hold 1.1 ♂️",
+          "sha256": "b62421a70f1883b9ac648c375676072ad67d9e4a1cc66c04c2871d408c3b6f9e"
+        },
+        {
+          "file": "sounds/task.progress/French_villagermale_hold_inorm_chigh_01_mp3.mp3",
+          "label": "Hold 1 ♂️",
+          "sha256": "4cbd7fb424a56b5a868dd09e3beed14002a8f7a6e4c9ea76c86c2ba0b6db8eb6"
+        },
+        {
+          "file": "sounds/task.progress/French_villagermale_hold_inorm_chigh_02_alt01_mp3.mp3",
+          "label": "Hold 2.1 ♂️",
+          "sha256": "f906a5107cb6da0932cb1b94fc281ce3f926210460469ee0d7fa600baea1f8d4"
+        },
+        {
+          "file": "sounds/task.progress/French_villagermale_hold_inorm_chigh_02_mp3.mp3",
+          "label": "Hold 2 ♂️",
+          "sha256": "e3e49df8616df99b09435f7b398ba1ca0457c86ef1cdc6bfb590951cc67bf106"
+        }
+      ]
+    }
+  }
+}
